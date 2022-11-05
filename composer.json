@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "^7.8",
+        "vlucas/phpdotenv": "^5.1",
+        "drewm/mailchimp-api": "^2.5"
+    }
+}

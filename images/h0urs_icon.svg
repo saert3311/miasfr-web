@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 37.5 37.5" style="enable-background:new 0 0 37.5 37.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#64AAE0;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#64A9DF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M-583.8,45.8v36.4h-21.1V62.6c0-4.9-4-9-9-9l0,0c-4.9,0-9,4-9,9v19.6h-21.1V45.8"/>
+	<polyline class="st0" points="-653.4,42.2 -613.9,13.4 -574.1,42.2 	"/>
+</g>
+<g>
+	<polygon class="st1" points="-170,31.4 -212.5,60.7 -255.1,31.5 	"/>
+	<polyline class="st1" points="-195.2,61.4 -169.9,80.9 -255.1,80.9 -229.9,61.4 	"/>
+	<line class="st1" x1="-255.1" y1="31.5" x2="-255.1" y2="80.9"/>
+	<line class="st1" x1="-170" y1="31.4" x2="-169.9" y2="80.9"/>
+</g>
+<g>
+	<circle class="st0" cx="-362.3" cy="49.2" r="34.7"/>
+	<path class="st0" d="M-359.8,14.6c0,0,15.5,11.5,15.6,34.6c0,10.9-4.2,23.7-15.6,34.7"/>
+	<path class="st0" d="M-363.9,14.6c0,0-15.5,11.5-15.6,34.6c0,10.9,4.2,23.7,15.6,34.7"/>
+	<line class="st0" x1="-362" y1="14.5" x2="-362" y2="83.9"/>
+	<line class="st0" x1="-397" y1="49.2" x2="-327.6" y2="49.2"/>
+	<path class="st0" d="M-387.1,24.9c0,0,22.1,20.6,50.1,0.6"/>
+	<path class="st0" d="M-385.8,74.8c5-3.9,24.1-16.3,47.5-0.5"/>
+</g>
+<path class="st1" d="M-469.1,65.9c-13.2-13.4-28.6-28.9-28.6-28.9c3.8-2.3,6.9-6.7,6.9-6.7c-7.1-10.5-17.6-17.8-17.6-17.8
+	c-7.6,5.2-9.2,13.2-9.2,13.2C-520.2,42.1-494,66-494,66c20.4,19.9,34.2,19.9,34.2,19.9c8.2,0.1,15.7-9.4,15.7-9.4
+	c-9-11.3-18-17.4-18-17.4S-465.8,62.1-469.1,65.9"/>
+<circle class="st0" cx="-416.4" cy="176.4" r="34.7"/>
+<polyline class="st0" points="-416.4,150.1 -416.4,178.2 -395.3,185.5 "/>
+<circle class="st0" cx="18.9" cy="19" r="16.2"/>
+<polyline class="st0" points="18.9,6.7 18.9,19.8 28.7,23.3 "/>
+</svg>
