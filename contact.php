@@ -12,22 +12,10 @@
   </head>
   <body>
 	  
-  <?php require 'components\header-menu-services.php'?>
+  <?php require 'components/header-menu-services.php'?>
     
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/contact_bg.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
-      <div class="container">
-         <div class="row no-gutters slider-text align-items-end justify-content-center">
-          <div class="col-md-9 ftco-animate pb-5 text-center">
-<div class="title_bar"><h1 class="page-title">Scaffolding on Rent
-<br>Miami Scaffold Rental</h1></div>
-              <br>
-              <br>
-              <br>
-              <br>
-
-        </div>
-      </div>
     </section>
     
     <section class="contact-section bg-light pt-5 pb-5" data-section="contact" id="contacto">
@@ -35,7 +23,7 @@
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
             <span class="subheading">HAVE A QUESTION?</span>
-            <h2 class="mb-4">Contact Us</h2>
+            <h1 class="mb-4">Contact Us</h1>
             <p>Please, fill out the form bellow.<br>A team member will reach out to help you</p>
           </div>
         </div>
