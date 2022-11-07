@@ -1,4 +1,4 @@
-<div id="gallery" style="display:none;" class="mt-2">
+<div id="gallery" style="display:none;width:100%important" class="mt-2">
 
 <img alt="System Scaffold MIASFR"
 src="https://miamiscaffoldrental.com/gallery/thumb/rlk_1a1.jpg"

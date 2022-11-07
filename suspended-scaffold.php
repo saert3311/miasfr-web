@@ -46,11 +46,14 @@
   </section>
   <?php require 'common_footer.php' ?>
   <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>
-  <script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+  <script type='text/javascript' src='unitegallery/themes/compact/ug-theme-compact.js'></script>
   <script type="text/javascript">
     jQuery(document).ready(function() {
       jQuery("#gallery").unitegallery({
-        tiles_type: "nested"
+        gallery_theme: "compact",
+				theme_panel_position: "right",
+        gallery_width:'100%',
+        slider_enable_text_panel: false,		
       });
     });
   </script>
