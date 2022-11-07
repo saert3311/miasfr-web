@@ -10,24 +10,7 @@
   </head>
   <body>
 	  
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-	    <div class="container">
-		<a class="navbar-brand" href="/"><picture><source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.png"><img class="erlogo" src="images/msr_logo_w.png"></picture></a>
-	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
-	      </button>
-
-	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav nav ml-auto">
-	          <li class="nav-item"><a href="/" class="nav-link external" data-nav-section="home"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="/#section-counter" class="nav-link external" data-nav-section="about"><span>About Us</span></a></li>
-	          <li class="nav-item"><a href="/#the-services" class="nav-link external" data-nav-section="services"><span>Services</span></a></li>
-	          <li class="nav-item cta"><a href="tel:+13057901410" class="nav-link external">305-790-1410</a></li>
-            <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com/ladders" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
-	        </ul>
-	      </div>
-	    </div>
-	  </nav>
+  <?php require 'components\header-menu-services.php'?>
     
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/ladders_head.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>

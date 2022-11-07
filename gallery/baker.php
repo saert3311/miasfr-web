@@ -1,4 +1,4 @@
-<div id="gallery" style="display:none;">
+<div id="gallery" style="display:none;" class="mt-2">
 
 <img alt="Baker Scaffold"
 src="https://miamiscaffoldrental.com/gallery/thumb/bkr_1a1.jpg"

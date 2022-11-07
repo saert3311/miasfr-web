@@ -1,14 +1,15 @@
 <section id="main-contact" class="hero-wrap bg-light">
       <div class="container py-5">
         <div class="row justify-content-center">
-        <div class="col-12 col-md-4 heading-section text-center ftco-animate fadeInUp ftco-animated">
-            <span class="subheading">HAVE A QUESTION?</span>
-            <h2 class="mb-4">Contact Us</h2>
+        <div class="col-12 col-md-4 heading-section ftco-animate fadeInUp ftco-animated">
+            <span class="subheading mb-0">HAVE A QUESTION?</span>
+            <span class="subheading">NEED AN ESTIMATE?</span>
+            <h2 class="mb-2">Contact Us</h2>
             <p>If you need more information, fill out the form. A team member will reach out to help you soon</p>
           </div>
           <div class="col-12 col-md-8">
             <div class="cold-flex">
-                <form action="thank-you" method="post" class=" py-lg-2 contact-form" id="contact-miasfr">
+                <form action="thank-you" method="post" class="contact-form" id="contact-services">
                   <div class="row">
                     <div class="col-sm-4">
                       <div class="form-group">
@@ -29,7 +30,7 @@
                   <div class="form-group mb-3">
                     <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="Comments/Questions" required></textarea>
                   </div>
-                  <div class="form-group d-flex justify-content-center">
+                  <div class="form-group d-flex justify-content-center mb-0">
                     <input type="submit" value="Send Message" class="btn btn-secondary py-3 px-5">
                   </div>
                 </form>

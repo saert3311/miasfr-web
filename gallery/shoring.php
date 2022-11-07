@@ -1,4 +1,4 @@
-<div id="gallery" style="display:none;">
+<div id="gallery" style="display:none;" class="mt-2">
 
 <img alt="Post Shoring MIASFR"
 src="https://miamiscaffoldrental.com/gallery/thumb/sho_1a1.jpg"

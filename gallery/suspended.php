@@ -1,4 +1,4 @@
-<div id="gallery" style="display:none;">
+<div id="gallery" style="display:none;" class="mt-2">
 
 <img alt="Suspended Scaffold from MIASFR"
 src="https://miamiscaffoldrental.com/gallery/thumb/ss_1a1.jpg"

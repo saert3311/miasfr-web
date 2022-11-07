@@ -74,7 +74,8 @@ if($arrResponse["success"] == '1' && $arrResponse["action"] == $action && $arrRe
       }
 
     }else {
-      header("Location:/contact");
+      header("Location: /contact");
+      die();
     }
   } else {
     $message = 'You are a robot';

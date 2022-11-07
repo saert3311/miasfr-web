@@ -9618,3 +9618,7 @@ nav.negrito img {filter:opacity(100%)}
   left: 0;
   width: 100%;
 }
+
+#contact-services input, #contact-services textarea {
+  font-size: 1rem;
+}
