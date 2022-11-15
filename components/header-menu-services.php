@@ -25,7 +25,7 @@
                             <a class="dropdown-item external" href="boom-lift">Boom Lift</a>
                         </div>
                     </li>
-                    <li class="nav-item"><a href="/#section-counter" class="nav-link external" data-nav-section="about"><span>About Us</span></a></li>
+                    <li class="nav-item"><a href="/contact" class="nav-link external" data-nav-section="about"><span>Contact</span></a></li>
                 <li class="nav-item cta"><a href="tel:+13057901410" class="nav-link external"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span>Call Us</a></li>
                 <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com/baker-scaffolding" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
                 <li class="nav-item banderita"><a href="#" class="external nav-link bandera" alt="Ver en Ingles"><span class="flag en grayscale"></span></a></li>

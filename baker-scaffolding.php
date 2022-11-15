@@ -53,14 +53,16 @@
 
   <?php require 'common_footer.php' ?>
   <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>
-  <script type='text/javascript' src='unitegallery/themes/compact/ug-theme-compact.js'></script>
+  <script type='text/javascript' src='unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js'></script>
   <script type="text/javascript">
     jQuery(document).ready(function() {
       jQuery("#gallery").unitegallery({
-        gallery_theme: "compact",
+        gallery_theme: "tilesgrid",
 				theme_panel_position: "right",
         gallery_width:'100%',
-        slider_enable_text_panel: false,		
+        slider_enable_text_panel: false,
+        theme_navigation_type:"arrows",
+        lightbox_type: "compact",		
       });
     });
   </script>

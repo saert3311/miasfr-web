@@ -30,7 +30,7 @@
                   <div class="form-group mb-3">
                     <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="Comments/Questions" required></textarea>
                   </div>
-                  <div class="form-group d-flex justify-content-center mb-0">
+                  <div class="form-group d-flex justify-content-end mb-0">
                     <input type="submit" value="Send Message" class="btn btn-secondary py-3 px-5">
                   </div>
                 </form>

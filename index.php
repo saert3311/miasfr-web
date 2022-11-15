@@ -103,6 +103,7 @@
 			</div>
         </div>
     </section>
+    <?php require 'service_form.php' ?>
 <?php require 'common_footer.php' ?>
 <script>$("footer").attr("style", "margin:0!important");</script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyA3lL2cKoevidwvZiCGHaVH-eQWDfj2TM0"></script>
