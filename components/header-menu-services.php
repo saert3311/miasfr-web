@@ -27,7 +27,7 @@
                     </li>
                     <li class="nav-item"><a href="/contact" class="nav-link external" data-nav-section="about"><span>Contact</span></a></li>
                 <li class="nav-item cta"><a href="tel:+13057901410" class="nav-link external"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span>Call Us</a></li>
-                <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com/baker-scaffolding" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
+                <li class="nav-item banderita"><a href="https://es.<?php echo $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];    ?>" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
                 <li class="nav-item banderita"><a href="#" class="external nav-link bandera" alt="Ver en Ingles"><span class="flag en grayscale"></span></a></li>
             </ul>
         </div>
