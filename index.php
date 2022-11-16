@@ -39,7 +39,6 @@
 	          <li class="nav-item"><a href="contact" class="external nav-link"><span>Contact</span></a></li>
             <li class="nav-item cta"><a href="tel:+13055308090" class="external nav-link nav-link-callus"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span><span>Call Us</span></a></li>
             <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
-            <li class="nav-item banderita"><a href="/" class="external nav-link bandera" alt="Ver en Ingles"><span class="flag en grayscale"></span></a></li>
 	        </ul>
 	      </div>
 	    </div>
