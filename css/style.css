@@ -8343,7 +8343,7 @@ h1, h2, h3, h4, h5,
   display: block;
   overflow: hidden;
   z-index: 0;
-  margin-bottom: 50px; }
+  margin-bottom: 20px; }
   .project .img {
     position: relative;
     overflow: hidden;
@@ -9265,7 +9265,7 @@ body > footer > div > div > div > p {margin-bottom:0!important}
 .contact-section .contact-info p a {
   color: #1a1a1a; }
 
-.contact-section .box {
+.contact-section .box  {
   width: 100%;
   display: block;
   background: #fff;
@@ -9621,4 +9621,15 @@ nav.negrito img {filter:opacity(100%)}
 
 #contact-services input, #contact-services textarea {
   font-size: 1rem;
+}
+
+.boxed-content{
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 42px 29px -31px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: 0px 42px 29px -31px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 42px 29px -31px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.05);
 }

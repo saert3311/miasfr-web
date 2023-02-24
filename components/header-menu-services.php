@@ -14,7 +14,7 @@
                 <li class="nav-item"><a href="/" class="nav-link external" data-nav-section="home"><span>Home</span></a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Services</a>
+                        Rental</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item external" href="system-scaffold">System Scaffold</a>
                             <a class="dropdown-item external" href="frame-scaffolding">Frame Scaffolding</a>
@@ -25,6 +25,7 @@
                             <a class="dropdown-item external" href="boom-lift">Boom Lift</a>
                         </div>
                     </li>
+                    <li class="nav-item"><a href="/hoist-repair-services" class="nav-link external" data-nav-section="about"><span>Hoist Repair</span></a></li>
                     <li class="nav-item"><a href="/contact" class="nav-link external" data-nav-section="about"><span>Contact</span></a></li>
                 <li class="nav-item cta"><a href="tel:+13057901410" class="nav-link external"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span>Call Us</a></li>
                 <li class="nav-item banderita"><a href="https://es.<?php echo $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];    ?>" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
