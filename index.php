@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-  <title>Miami Scaffolding Rental Service| Planning your New Project?</title>
+  <?php require 'common_header.php' ?>
+  <title><?php echo ___('Miami Scaffolding Rental Service| Planning your New Project?') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
-  <meta name="Keywords" content="scaffolding rental, scaffolding rental service, scaffolding florida, shoring post rental">
+  <meta name="description" content="<?php echo ___('We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.') ?>">
+  <meta name="Keywords" content="<?php echo ___('scaffolding rental, scaffolding rental service, scaffolding florida, shoring post rental') ?>"
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://miamiscaffoldrental.com” />
-  <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com" />
-  <?php require 'common_header.php' ?>
+  <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
   <link rel="stylesheet" href="css/google-places.css">
 </head>
 
@@ -30,21 +30,21 @@
         <ul class="navbar-nav nav ml-auto">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-nav-section="services">
-              Rental</a>
+            <?php echo ___('Rental') ?></a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item external" href="system-scaffold">System Scaffold</a>
-              <a class="dropdown-item external" href="frame-scaffolding">Frame Scaffolding</a>
-              <a class="dropdown-item external" href="baker-scaffolding">Baker Scaffolding</a>
-              <a class="dropdown-item external" href="suspended-scaffold">Suspended Scaffold</a>
-              <a class="dropdown-item external" href="post-shoring">Shoring</a>
-              <a class="dropdown-item external" href="scissor-lift">Scissor Lift</a>
-              <a class="dropdown-item external" href="boom-lift">Boom Lift</a>
+              <a class="dropdown-item external" href="system-scaffold"><?php echo ___('System Scaffold') ?></a>
+              <a class="dropdown-item external" href="frame-scaffolding"><?php echo ___('Frame Scaffolding') ?></a>
+              <a class="dropdown-item external" href="baker-scaffolding"><?php echo ___('Baker Scaffolding') ?></a>
+              <a class="dropdown-item external" href="suspended-scaffold"><?php echo ___('Suspended Scaffold') ?></a>
+              <a class="dropdown-item external" href="post-shoring"><?php echo ___('Shoring') ?></a>
+              <a class="dropdown-item external" href="scissor-lift"><?php echo ___('Scissor Lift') ?></a>
+              <a class="dropdown-item external" href="boom-lift"><?php echo ___('Boom Lift') ?></a>
             </div>
           </li>
-          <li class="nav-item"><a href="#" class="nav-link " data-nav-section="about"><span class="nav-link-aboutus">About Us</span></a></li>
-          <li class="nav-item"><a href="hoist-repair-services" class="external nav-link"><span>Hoist Repair</span></a></li>
-          <li class="nav-item"><a href="contact" class="external nav-link"><span>Contact</span></a></li>
-          <li class="nav-item cta"><a href="tel:+13055308090" class="external nav-link nav-link-callus"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span><span>Call Us</span></a></li>
+          <li class="nav-item"><a href="#" class="nav-link " data-nav-section="about"><span class="nav-link-aboutus"><?php echo ___('About Us') ?></span></a></li>
+          <li class="nav-item"><a href="hoist-repair-services" class="external nav-link"><span><?php echo ___('Hoist Repair') ?></span></a></li>
+          <li class="nav-item"><a href="contact" class="external nav-link"><span><?php echo ___('Contact') ?></span></a></li>
+          <li class="nav-item cta"><a href="tel:+13055308090" class="external nav-link nav-link-callus"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span><span><?php echo ___('Call Us') ?></span></a></li>
           <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
         </ul>
       </div>
@@ -56,8 +56,8 @@
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
         <div class="col-md-8 ftco-animate mt-5" data-scrollax=" properties: { translateY: '70%' }">
-          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Fast Growing. Independent.<br>Scaffolding Rental Company</h1>
-          <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Serving Miami-Dade, Broward<br>and Palm Beach counties.</p>
+          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?php echo ___('Fast Growing. Independent.<br>Scaffolding Rental Company') ?></h1>
+          <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
         </div>
       </div>
     </div>
@@ -70,12 +70,12 @@
       <!-- row  -->
       <div class="row justify-content-center">
         <div class="col-md-6 d-flex align-items-center">
-          <h3 class="mb-3">Need highly-trained technicians to help diagnose and repair your hoist?</h3>
+          <h3 class="mb-3"><?php echo ___('Need highly-trained technicians to help diagnose and repair your hoist?') ?></h3>
         </div>
         <div class="col-md-6 d-flex align-items-center flex-wrap">
-          <h6 class="subtitle font-weight-normal">We offer on-call, scheduled and in-house hoist repair services. Also, emergency repairs when needed</h6>
+          <h6 class="subtitle font-weight-normal"><?php echo ___('We offer on-call, scheduled and in-house hoist repair services. Also, emergency repairs when needed') ?></h6>
           <a href="/hoist-repair-services" class="external">
-            <button class="btn btn-secondary btn-md mt-1" style="min-width: 112px;">Learn more</button>
+            <button class="btn btn-secondary btn-md mt-1" style="min-width: 112px;"><?php echo ___('Learn more') ?></button>
           </a>
         </div>
       </div>
@@ -93,11 +93,11 @@
         <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
           <div class="row justify-content-start pb-3">
             <div class="col-md-12 heading-section ftco-animate">
-              <span class="subheading">ABOUT US</span>
-              <h2 class="mb-4">Locally Owned and Operated</h2>
-              <p>We are a fast growing, independent, scaffolding rental company in the city of Miami. Delivering top quality equipment with strong customer service. Focused on building long term relationships, whether you just want to replace light bulbs, repaint your house or start you next big construction project. In a business where new challenges and opportunities arise daily, our knowledgeable staff consistently delivers.</p>
-              <p>We also offer delivery/pickup service to your home or job site, usually the same day. And with an advance reservation we can do even better. If you are starting a project and want some advice, feel free to ask. We look forward to serving you in the Miami-Dade, Broward and Palm Beach counties.</p>
-              <p>All our products meet OSHA and ANSI requirements.</p>
+              <span class="subheading"><?php echo ___('ABOUT US') ?></span>
+              <h2 class="mb-4"><?php echo ___('Locally Owned and Operated') ?></h2>
+              <p><?php echo ___('We are a fast growing, independent, scaffolding rental company in the city of Miami. Delivering top quality equipment with strong customer service. Focused on building long term relationships, whether you just want to replace light bulbs, repaint your house or start you next big construction project. In a business where new challenges and opportunities arise daily, our knowledgeable staff consistently delivers.') ?></p>
+              <p><?php echo ___('We also offer delivery/pickup service to your home or job site, usually the same day. And with an advance reservation we can do even better. If you are starting a project and want some advice, feel free to ask. We look forward to serving you in the Miami-Dade, Broward and Palm Beach counties.') ?></p>
+              <p><?php echo ___('All our products meet OSHA and ANSI requirements.') ?></p>
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12 heading-section text-center ftco-animate">
-          <span class="subheading">WHAT PEOPLE SAY ABOUT US?</span>
+          <span class="subheading"><?php echo ___('WHAT PEOPLE SAY ABOUT US?') ?></span>
           <h2 class="mb-4"></h2>
         </div>
       </div>
@@ -122,7 +122,7 @@
         </div>
       </div>
       <div class="row d-flex justify-content-center">
-        <a href="https://g.page/miamiscaffoldrental/review" target="_blank"><button type="button" class="btn btn-primary">Leave us a review</button></a>
+        <a href="https://g.page/miamiscaffoldrental/review" target="_blank"><button type="button" class="btn btn-primary"><?php echo ___('Leave us a review') ?></button></a>
       </div>
     </div>
   </section>
