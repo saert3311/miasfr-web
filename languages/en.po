@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2023-05-31 01:07-0400\n"
-"PO-Revision-Date: 2023-05-31 01:10-0400\n"
+"Project-Id-Version: miasfr-web\n"
+"POT-Creation-Date: 2023-05-31 01:10-0400\n"
+"PO-Revision-Date: 2023-06-01 00:04-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -106,4 +106,42 @@ msgstr ""
 
 #: index.php:78
 msgid "Learn more"
+msgstr ""
+
+#: index.php:96
+msgid "ABOUT US"
+msgstr ""
+
+#: index.php:97
+msgid "Locally Owned and Operated"
+msgstr ""
+
+#: index.php:98
+msgid ""
+"We are a fast growing, independent, scaffolding rental company in the city "
+"of Miami. Delivering top quality equipment with strong customer service. "
+"Focused on building long term relationships, whether you just want to "
+"replace light bulbs, repaint your house or start you next big construction "
+"project. In a business where new challenges and opportunities arise daily, "
+"our knowledgeable staff consistently delivers."
+msgstr ""
+
+#: index.php:99
+msgid ""
+"We also offer delivery/pickup service to your home or job site, usually the "
+"same day. And with an advance reservation we can do even better. If you are "
+"starting a project and want some advice, feel free to ask. We look forward "
+"to serving you in the Miami-Dade, Broward and Palm Beach counties."
+msgstr ""
+
+#: index.php:100
+msgid "All our products meet OSHA and ANSI requirements."
+msgstr ""
+
+#: index.php:112
+msgid "WHAT PEOPLE SAY ABOUT US?"
+msgstr ""
+
+#: index.php:125
+msgid "Leave us a review"
 msgstr ""

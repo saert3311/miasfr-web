@@ -1,7 +1,11 @@
+<?php
+  // Translator loader
+  require 'languages.php'
+  ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php $language ?>">
   <head>
-    <title>Miami Scaffold Rental - Ladders</title>
+    <title><?php echo ___('Miami Scaffold Rental - Ladders') ?></title>
     <meta charset="utf-8">
     <link rel="canonical" href="https://miamiscaffoldrental.com/ladders"/>
     <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/ladders" />
@@ -26,20 +30,20 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 order-lg-last ftco-animate">
-		  <h2 class="mb-4">Ladders</h2>
-			<p>We offer a wide range of heights and styles including straight ladders which lean up against a solid surface for support, step ladders and even combinations. From step ladders to 50’ ladder extensions.</p>
-      <a href="contact" role="button" class="btn btn-primary">Contact Us</a>
+		  <h2 class="mb-4"><?php echo ___('Ladders') ?></h2>
+			<p><?php echo ___('We offer a wide range of heights and styles including straight ladders which lean up against a solid surface for support, step ladders and even combinations. From step ladders to 50’ ladder extensions.') ?></p>
+      <a href="contact" role="button" class="btn btn-primary"><?php echo ___('Contact Us') ?></a>
           </div>
           <div class="col-lg-4 sidebar ftco-animate">
             <div class="sidebar-box ftco-animate">
-            	<h3 class="heading-sidebar">Services</h3>
+            	<h3 class="heading-sidebar"><?php echo ___('Services') ?></h3>
               <ul class="categories">
-              <li><a href="frame-scaffolding">Frame Scaffolding</a></li>
-               <li><a href="system-scaffold">System Scaffold</a></li>
-                <li><a href="baker-scaffolding">Baker Scaffolding</a></li>
-                <li><a href="suspended-scaffold">Suspended Scaffold</a></li>
-                <li><a href="scissor-lift">Scissor Lift</a></li>
-                <li><a href="boom-lift">Boom Lift</a></li>
+              <li><a href="frame-scaffolding"><?php echo ___('Frame Scaffolding') ?></a></li>
+               <li><a href="system-scaffold"><?php echo ___('System Scaffold') ?></a></li>
+                <li><a href="baker-scaffolding"><?php echo ___('Baker Scaffolding') ?></a></li>
+                <li><a href="suspended-scaffold"><?php echo ___('Suspended Scaffold') ?></a></li>
+                <li><a href="scissor-lift"><?php echo ___('Scissor Lift') ?></a></li>
+                <li><a href="boom-lift"><?php echo ___('Boom Lift') ?></a></li>
               </ul>
             </div>
 

@@ -1,8 +1,11 @@
+<?php
+  // Translator loader
+  require 'languages.php'
+  ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $language ?>">
 
 <head>
-  <?php require 'common_header.php' ?>
   <title><?php echo ___('Miami Scaffolding Rental Service| Planning your New Project?') ?></title>
   <meta charset="utf-8">
   <meta name="description" content="<?php echo ___('We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.') ?>">
@@ -11,6 +14,7 @@
   <link rel=”canonical” href=”https://miamiscaffoldrental.com” />
   <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
   <link rel="stylesheet" href="css/google-places.css">
+  <?php require 'common_header.php' ?>
 </head>
 
 <body>

@@ -2,10 +2,10 @@
       <div class="container py-5">
         <div class="row justify-content-center">
         <div class="col-12 col-md-4 heading-section ftco-animate fadeInUp ftco-animated">
-            <span class="subheading mb-0">HAVE A QUESTION?</span>
-            <span class="subheading">NEED AN ESTIMATE?</span>
-            <h2 class="mb-2">Contact Us</h2>
-            <p>If you need more information, fill out the form. A team member will reach out to help you soon</p>
+            <span class="subheading mb-0"><?php echo ___('HAVE A QUESTION?') ?></span>
+            <span class="subheading"><?php echo ___('NEED AN ESTIMATE?') ?></span>
+            <h2 class="mb-2"><?php echo ___('Contact Us') ?></h2>
+            <p><?php echo ___('If you need more information, fill out the form. A team member will reach out to help you soon') ?></p>
           </div>
           <div class="col-12 col-md-8">
             <div class="cold-flex">
@@ -13,7 +13,7 @@
                   <div class="row">
                     <div class="col-sm-4">
                       <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Your name" name="fname" required>
+                        <input type="text" class="form-control" placeholder="<?php echo ___('Your name') ?>" name="fname" required>
                       </div>
                     </div>
                     <div class="col-sm-4">
@@ -23,15 +23,15 @@
                     </div>
                     <div class="col-sm-4">
                       <div class="form-group">
-                        <input type="tel" class="form-control" placeholder="Phone" name="phone" required>
+                        <input type="tel" class="form-control" placeholder="<?php echo ___('Phone') ?>" name="phone" required>
                       </div>
                     </div>
                   </div>
                   <div class="form-group mb-3">
-                    <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="Comments/Questions" required></textarea>
+                    <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="<?php echo ___('Comments/Questions') ?>" required></textarea>
                   </div>
                   <div class="form-group d-flex justify-content-end mb-0">
-                    <input type="submit" value="Send Message" class="btn btn-secondary py-3 px-5">
+                    <input type="submit" value="<?php echo ___('Send Message') ?>" class="btn btn-secondary py-3 px-5">
                   </div>
                 </form>
               </div>

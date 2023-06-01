@@ -1,9 +1,13 @@
+<?php
+  // Translator loader
+  require 'languages.php'
+  ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $language ?>">
   <head>
-    <title>Contact Us | Scaffolding on Rent-Miami Scaffold Rental</title>
+    <title><?php echo ___('Contact Us | Scaffolding on Rent-Miami Scaffold Rental') ?></title>
     <meta charset="utf-8">
-    <meta name="description" content="Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.">
+    <meta name="description" content="<?php echo ___('Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.') ?>">
 	<meta name="Keywords" content="scaffold rental">
 	<link rel="canonical" href="https://miamiscaffoldrental.com/contact"/>
 	<link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/contact" />
@@ -22,38 +26,38 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-            <span class="subheading">HAVE A QUESTION?</span>
-            <h1 class="mb-4">Contact Us</h1>
-            <p>Please, fill out the form bellow.<br>A team member will reach out to help you</p>
+            <span class="subheading"><?php echo ___('HAVE A QUESTION?') ?></span>
+            <h1 class="mb-4"><?php echo ___('Contact Us') ?></h1>
+            <p><?php echo ___('Please, fill out the form bellow.<br>A team member will reach out to help you') ?></p>
           </div>
         </div>
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
             <form action="thank-you" method="post" class="bg-light p-lg-5 contact-form" id="contact-miasfr">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="First Name" name="fname" required>
+                <input type="text" class="form-control" placeholder="<?php echo ___('First Name') ?>" name="fname" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Last Name" name="lname" required>
+                <input type="text" class="form-control" placeholder="<?php echo ___('Last Name') ?>" name="lname" required>
 							</div>
 							<div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Company Name" name="company" required>
+                <input type="text" class="form-control" placeholder="<?php echo ___('Your Company Name') ?>" name="company" required>
 							</div>
 							<div class="form-group">
                 <input type="email" class="form-control" placeholder="E-mail" name="email" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Zip Code" name="zip" required>
+                <input type="text" class="form-control" placeholder="<?php echo ___('Zip Code') ?>" name="zip" required>
 							</div>
 							<div class="form-group">
-                <input type="tel" class="form-control" placeholder="Phone" name="phone" required>
+                <input type="tel" class="form-control" placeholder="<?php echo ___('Phone') ?>" name="phone" required>
 							</div>
 							<div class="form-group">
 							<select class="form-control" name="hear" required>
-									<option value="None">How did you hear about us?</option>
-									<option value="Referal">Referal</option>
-									<option value="Google Search">Google Search</option>
-								    <option value="Printed Ad">Printed Ad</option>
+									<option value="None"><?php echo ___('How did you hear about us?') ?></option>
+									<option value="Referal"><?php echo ___('Referal') ?></option>
+									<option value="Google Search"><?php echo ___('Google Search') ?></option>
+								    <option value="Printed Ad"><?php echo ___('Printed Ad') ?></option>
 								</select>
 							</div>
               <div class="form-group mb-3">
@@ -62,11 +66,11 @@
 							<div class="form-check mb-3">
 									<input class="form-check-input" type="checkbox" value="yes" id="defaultCheck1" name="subscribe">
 									<label class="form-check-label" for="defaultCheck1">
-										Subscribe to Newsletter
+									<?php echo ___('Subscribe to Newsletter') ?>
 									</label>
 								</div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-secondary py-3 px-5">
+                <input type="submit" value="<?php echo ___('Send Message') ?>" class="btn btn-secondary py-3 px-5">
               </div>
             </form>
           
@@ -85,7 +89,7 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<img src="images/address_icon_2.png" alt="Scaffolding on Rent">
           		</div>
-          		<h3 class="mb-4">Address</h3>
+          		<h3 class="mb-4"><?php echo ___('Address') ?></h3>
 	            <p>9955 NW 116th Way, Suite 8<br>Medley, FL 33178</p>
 	          </div>
           </div>
@@ -94,7 +98,7 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<img src="images/phone_icon.png">
           		</div>
-          		<h3 class="mb-4">Phone</h3>
+          		<h3 class="mb-4"><?php echo ___('Phone') ?></h3>
 	            <p><a href="tel:+13055308090">305-530-8090</a></p>
 	          </div>
           </div>
@@ -112,8 +116,8 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<img src="images/hours_icon.png">
           		</div>
-          		<h3 class="mb-4">Hours</h3>
-	            <p>MON-SAT: 7:00 am to 4:00 pm<br>SUN: Closed</p>
+          		<h3 class="mb-4"><?php echo ___('Hours') ?></h3>
+	            <p><?php echo ___('MON-SAT: 7:00 am to 4:00 pm<br>SUN: Closed') ?></p>
 	          </div>
           </div>
         </div>

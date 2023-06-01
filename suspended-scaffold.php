@@ -1,5 +1,9 @@
+<?php
+  // Translator loader
+  require 'languages.php'
+  ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php $language ?>">
 
 <head>
   <title>Suspended Scaffolding at Guaranteed Lowest Price| Call Us Today</title>
