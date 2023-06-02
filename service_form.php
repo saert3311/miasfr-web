@@ -4,7 +4,7 @@
         <div class="col-12 col-md-4 heading-section ftco-animate fadeInUp ftco-animated">
             <span class="subheading mb-0"><?php echo ___('HAVE A QUESTION?') ?></span>
             <span class="subheading"><?php echo ___('NEED AN ESTIMATE?') ?></span>
-            <h2 class="mb-2"><?php echo ___('Contact Us') ?></h2>
+            <p class="mb-2 heading-title"><?php echo ___('Contact Us') ?></p>
             <p><?php echo ___('If you need more information, fill out the form. A team member will reach out to help you soon') ?></p>
           </div>
           <div class="col-12 col-md-8">

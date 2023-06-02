@@ -8869,9 +8869,11 @@ body > footer > div > div > div > p {margin-bottom:0!important}
   color: var(--primary);
   letter-spacing: 2px; }
 
-.heading-section h2 {
+.heading-section > .heading-title {
   font-size: 34px;
-  font-weight: 500; }
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9); }
   .heading-section h2 span {
     font-weight: 400; }
   @media (max-width: 767.98px) {
