@@ -1,5 +1,6 @@
 <?php
 require 'vendor/autoload.php';
+require 'languages.php';
 $dotenv = Dotenv\Dotenv::createImmutable('../', '.miasfr');
 $dotenv->load();
 use \DrewM\MailChimp\MailChimp;
@@ -83,9 +84,9 @@ if($arrResponse["success"] == '1' && $arrResponse["action"] == $action && $arrRe
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $language ?>">
   <head>
-    <title>Miami Scaffold Rental</title>
+    <title><?php echo ___('Miami Scaffold Rental') ?></title>
     <meta charset="utf-8">
     <link rel="canonical" href="https://miamiscaffoldrental.com/thank-you"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -97,14 +98,14 @@ if($arrResponse["success"] == '1' && $arrResponse["action"] == $action && $arrRe
 	    <div class="container">
       <a class="navbar-brand" href="/"><picture><source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.png"><img alt="Miami Scaffolding Rental Service" class="erlogo" src="images/msr_logo_w.png"></picture></a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
+	        <span class="oi oi-menu"></span><?php echo ___('Menu') ?>
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
-			<li class="nav-item"><a href="/" class="nav-link external" data-nav-section="home"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="/#section-counter" class="nav-link external" data-nav-section="about"><span>About Us</span></a></li>
-	          <li class="nav-item"><a href="/#the-services" class="nav-link external" data-nav-section="services"><span>Services</span></a></li>
+			<li class="nav-item"><a href="/" class="nav-link external" data-nav-section="home"><span><?php echo ___('Home') ?></span></a></li>
+	          <li class="nav-item"><a href="/#section-counter" class="nav-link external" data-nav-section="about"><span><?php echo ___('About Us') ?></span></a></li>
+	          <li class="nav-item"><a href="/#the-services" class="nav-link external" data-nav-section="services"><span><?php echo ___('Services') ?></span></a></li>
 	          <li class="nav-item cta"><a href="tel:+13057901410" class="nav-link external">305-790-1410</a></li>
 	        </ul>
 	      </div>
