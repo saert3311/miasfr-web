@@ -4,12 +4,12 @@
           <div class="col-12 col-md-6 my-2">
             <div class="ftco-footer-widget d-flex justify-content-center justify-content-sm-start flex-wrap">
               <img src="images/msr_logo_bw.png" alt="Miami Scaffold Rental" style="max-height:90px;margin-bottom:7px">
-              <a href="https://www.saiaonline.org/" target="_blank" class="px-4 align-self-end"><img style="max-height: 70px;margin-left: -5px;" src="images/saia-logo-white.png" alt="SAIA Logo"></a>
+              <a href="https://www.saiaonline.org/" target="_blank" rel="noopener noreferrer" class="px-4 align-self-end"><img style="max-height: 70px;margin-left: -5px;" src="images/saia-logo-white.png" alt="SAIA Logo"></a>
             </div>
           </div>
           <div class="col-12 col-md-6 my-2">
             <div class="ftco-footer-widget d-flex flex-column justify-content-end">
-              <a href="https://g.page/miamiscaffoldrental" target="_blank" class="px-3 text-center text-sm-right"><span class="icon icon-map-marker px-2"></span><span class="text" id="footer-address">9955 NW 116th Way, Ste. 8 Medley, FL 33178</span></a>
+              <a href="https://g.page/miamiscaffoldrental" target="_blank" rel="noopener noreferrer" class="px-3 text-center text-sm-right"><span class="icon icon-map-marker px-2"></span><span class="text" id="footer-address">9955 NW 116th Way, Ste. 8 Medley, FL 33178</span></a>
               <a href="tel:+13055308090" class="px-3 text-center text-sm-right"><span class="icon icon-phone px-2"></span><span class="text" id="footer-tel">305-530-8090</span></a>
               <a href="mailto:info@miamiscaffoldrental.com" class="px-3 text-center text-sm-right"><span class="icon icon-envelope px-2"></span><span class="text" id="footer-email">info@miamiscaffoldrental.com</span></a>
             </div>
