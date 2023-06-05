@@ -9636,3 +9636,10 @@ nav.negrito img {filter:opacity(100%)}
   box-shadow: 0px 42px 29px -31px rgba(0, 0, 0, 0.05);
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
+
+.webp section.hero-wrap {
+  background-image: url('../images/banner_1.webp')
+}
+.no-webp section.hero-wrap {
+  background-image: url('../images/banner_1.jpg')
+}

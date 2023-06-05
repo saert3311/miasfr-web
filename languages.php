@@ -4,10 +4,10 @@
 $currentURL = $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
 // Extract the subdomain
-$subdomain = explode('.', $currentURL)[0];
+$divided_url = explode('.', $currentURL);
 
-if (!empty($subdomain)) {
-    $language = $subdomain;
+if (count($divided_url) > 2) {
+    $language = $divided_url[0];
 } else {
     $language = isset($_GET['lang']) ? $_GET['lang'] : 'en';
 }
