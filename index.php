@@ -79,7 +79,7 @@
         <div class="col-md-6 d-flex align-items-center flex-wrap">
           <h6 class="subtitle font-weight-normal"><?php echo ___('We offer on-call, scheduled and in-house hoist repair services. Also, emergency repairs when needed') ?></h6>
           <a href="/hoist-repair-services" class="external">
-            <button class="btn btn-secondary btn-md mt-1" style="min-width: 112px;"><?php echo ___('Learn more') ?></button>
+            <button class="btn btn-secondary btn-md mt-1" style="min-width: 112px;"><?php echo ___('Specialized Hoist Repair Services') ?></button>
           </a>
         </div>
       </div>
