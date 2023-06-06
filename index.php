@@ -15,6 +15,12 @@
   <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
   <link rel="stylesheet" href="css/google-places.css">
   <?php require 'common_header.php' ?>
+  <meta property="og:title" content="Miami Scaffolding Rental Service| Planning your New Project?">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com"/>
+  <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
+  <meta property="og:type" content="business.business">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
 </head>
 
 <body>

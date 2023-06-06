@@ -14,6 +14,12 @@
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/scissor-lift" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
+  <meta property="og:title" content="<?php echo ___('Scissor Lift on Hire | Electric Lift Save Your Time and Money') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/scissor-lift"/>
+  <meta property="og:description" content="<?php echo ___('Rent a scissor lift today. Call us now. All makes and models available. Choose from various types of scissors liftavailable for rent now.') ?>">
+  <meta property="og:type" content="product">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
 </head>
 
 <body>

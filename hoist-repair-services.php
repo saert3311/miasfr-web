@@ -13,6 +13,12 @@
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/hoist-repair-services" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
+  <meta property="og:title" content="<?php echo ___('Hoist Repair Services | Get back on the job as soon as possible') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/hoist-repair-services"/>
+  <meta property="og:description" content="<?php echo ___('On-call, scheduled and in-house hoist repair services.  We are certified to repair, and offer warranty, on most commercial brands') ?>">
+  <meta property="og:type" content="product">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
 </head>
 
 <body>

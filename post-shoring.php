@@ -15,6 +15,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
+  <meta property="og:title" content="<?php echo ___('Shoring Post| Post Shoring - Free Rental Quote') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/post-shoring"/>
+  <meta property="og:description" content="<?php echo ___('Shoring post is used to temporarily support beams or floors in a building.We offer a comprehensive line of shoring rental equipment.') ?>">
+  <meta property="og:type" content="product">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
 </head>
 
 <body>

@@ -14,6 +14,12 @@
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/boom-lift" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
+  <meta property="og:title" content="<?php echo ___('Lift Rental| Reliable and Dependable| Licensed and Insured') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/boom-lift"/>
+  <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
+  <meta property="og:type" content="product">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
 </head>
 
 <body>

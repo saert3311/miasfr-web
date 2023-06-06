@@ -13,6 +13,12 @@
 	<link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/contact" />
 	  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php require 'common_header.php' ?>
+	<meta property="og:title" content="<?php echo ___('Contact Us | Scaffolding on Rent-Miami Scaffold Rental') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/contact"/>
+  <meta property="og:description" content="<?php echo ___('Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.') ?>">
+  <meta property="og:type" content="business.business">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
   </head>
   <body>
 	  
