@@ -33,7 +33,13 @@
         <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#64AAE0" />
       </svg></div>
 
+    <div class="alert text-center cookiealert" role="alert">
+      <b>🍪 Craving knowledge about our cookies?</b> Dive into our Cookie Policy! <a href="/cookies" target="_blank">Learn more</a>
 
+      <button type="button" class="btn btn-primary btn-sm acceptcookies">
+        I agree
+      </button>
+    </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -47,6 +53,7 @@
     <script src="js/jquery.animateNumber.min.js"></script>
     <script src="js/scrollax.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/cookiealert.js"></script>
     <script>
       $(window).scroll(function() {
         let navbar = $('#ftco-nav');

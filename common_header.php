@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="css/ionicons.min.css">
   <link rel="stylesheet" href="css/flaticon.css">
   <link rel="stylesheet" href="css/icomoon.css">
+  <link rel="stylesheet" href="css/cookiealert.css">
   <script src="js/modernizr.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/style.css">
 <!-- Google Tag Manager -->
