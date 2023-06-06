@@ -18,7 +18,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/contact"/>
   <meta property="og:description" content="<?php echo ___('Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.') ?>">
   <meta property="og:type" content="business.business">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
   </head>
   <body>
 	  

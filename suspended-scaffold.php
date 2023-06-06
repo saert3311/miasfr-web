@@ -15,6 +15,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
+  <meta property="og:title" content="<?php echo ___('Suspended Scaffolding at Guaranteed Lowest Price| Call Us Today') ?>">
+  <meta property="og:site_name" content="Miami Scaffold Rental">
+  <meta property="og:url" content="https://miamiscaffoldrental.com/suspended-scaffold"/>
+  <meta property="og:description" content="<?php echo ___('Suspended Scaffolding is an adjustable solution for working on high rise building. They are also known as swing stay suspended scaffolding.') ?>">
+  <meta property="og:type" content="product">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
 
 <body>

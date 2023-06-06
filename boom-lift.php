@@ -19,7 +19,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/boom-lift"/>
   <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
 
 <body>

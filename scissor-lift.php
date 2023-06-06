@@ -19,7 +19,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/scissor-lift"/>
   <meta property="og:description" content="<?php echo ___('Rent a scissor lift today. Call us now. All makes and models available. Choose from various types of scissors liftavailable for rent now.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
 
 <body>

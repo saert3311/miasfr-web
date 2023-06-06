@@ -18,7 +18,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/hoist-repair-services"/>
   <meta property="og:description" content="<?php echo ___('On-call, scheduled and in-house hoist repair services.  We are certified to repair, and offer warranty, on most commercial brands') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
 
 <body>

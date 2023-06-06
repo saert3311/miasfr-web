@@ -20,7 +20,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/frame-scaffolding"/>
   <meta property="og:description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_logo_bw.png">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
 
 <body>
