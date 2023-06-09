@@ -132,7 +132,7 @@
         </div>
       </div>
       <div class="row d-flex justify-content-center">
-        <a href="https://g.page/miamiscaffoldrental/review" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary"><?php echo ___('Leave us a review') ?></button></a>
+        <a href="https://g.page/miamiscaffoldrental/review" target="_blank" rel="noopener noreferrer nofollow"><button type="button" class="btn btn-primary"><?php echo ___('Leave us a review') ?></button></a>
       </div>
     </div>
   </section>
