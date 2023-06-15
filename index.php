@@ -20,7 +20,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com"/>
   <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
   <meta property="og:type" content="business.business">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
@@ -97,7 +97,7 @@
     <div class="container">
       <div class="row d-flex">
         <div class="col-md-6 col-lg-4 d-flex .d-none .d-sm-block">
-          <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about_background.jpg);">
+          <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about_background.webp);">
           </div>
         </div>
         <div class="col-md-6 col-lg-8 pl-lg-5 py-5">

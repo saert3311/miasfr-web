@@ -19,14 +19,14 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/boom-lift"/>
   <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/boom_lift_head.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/boom_lift_head.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>

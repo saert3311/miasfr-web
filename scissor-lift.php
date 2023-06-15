@@ -19,14 +19,14 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/scissor-lift"/>
   <meta property="og:description" content="<?php echo ___('Rent a scissor lift today. Call us now. All makes and models available. Choose from various types of scissors liftavailable for rent now.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/scissor_lift_head.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/scissor_lift_head.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>

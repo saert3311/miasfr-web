@@ -18,13 +18,13 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/contact"/>
   <meta property="og:description" content="<?php echo ___('Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.') ?>">
   <meta property="og:type" content="business.business">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
   </head>
   <body>
 	  
   <?php require 'components/header-menu-services.php'?>
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/contact_bg.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/contact_bg.webp');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
     </section>
     

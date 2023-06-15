@@ -20,7 +20,7 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/post-shoring"/>
   <meta property="og:description" content="<?php echo ___('Shoring post is used to temporarily support beams or floors in a building.We offer a comprehensive line of shoring rental equipment.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>

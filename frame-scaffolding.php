@@ -20,14 +20,14 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/frame-scaffolding"/>
   <meta property="og:description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/scaffold_head.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/scaffold_head.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>

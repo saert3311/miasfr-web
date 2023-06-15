@@ -20,14 +20,14 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/suspended-scaffold"/>
   <meta property="og:description" content="<?php echo ___('Suspended Scaffolding is an adjustable solution for working on high rise building. They are also known as swing stay suspended scaffolding.') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/suspended_scaffold_head.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/suspended_scaffold_head.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>

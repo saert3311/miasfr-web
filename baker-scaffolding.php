@@ -27,7 +27,7 @@
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/baker_scaffolding_head.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/baker_scaffolding_head.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>

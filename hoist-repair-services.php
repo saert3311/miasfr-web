@@ -18,14 +18,14 @@
   <meta property="og:url" content="https://miamiscaffoldrental.com/hoist-repair-services"/>
   <meta property="og:description" content="<?php echo ___('On-call, scheduled and in-house hoist repair services.  We are certified to repair, and offer warranty, on most commercial brands') ?>">
   <meta property="og:type" content="product">
-  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
+  <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
 
 <body>
 
   <?php require 'components/header-menu-services.php' ?>
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/swing-stages-featured-02.jpg');" data-stellar-background-ratio="0.5">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/swing-stages-featured-02.webp');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     </div>
   </section>
