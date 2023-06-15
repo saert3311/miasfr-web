@@ -13,7 +13,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="system-scaffold"><img src="https://miamiscaffoldrental.com/images/msr_system_scaffold.webp" class="img-fluid" alt="Scaffold MIASCFR"></a>
+    								<a href="system-scaffold"><img src="https://miamiscaffoldrental.com/images/msr_system_scaffold.webp" class="img-fluid" alt="Scaffold MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="system-scaffold"><?php echo ___('System Scaffold') ?></a></p>
@@ -24,7 +24,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="frame-scaffolding"><img src="https://miamiscaffoldrental.com/images/msr_scaffold.webp" class="img-fluid" alt="Scaffold MIASCFR"></a>
+    								<a href="frame-scaffolding"><img src="https://miamiscaffoldrental.com/images/msr_scaffold.webp" class="img-fluid" alt="Scaffold MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="frame-scaffolding"><?php echo ___('Frame Scaffolding') ?></a></p>
@@ -35,7 +35,7 @@
     					<article class="item">
     						<div class="project">
     							<div id="masalto" class="img">
-    								<a href="baker-scaffolding"><img src="https://miamiscaffoldrental.com/images/msr_baker.webp" class="img-fluid" alt="Baker MIASCFR"></a>
+    								<a href="baker-scaffolding"><img src="https://miamiscaffoldrental.com/images/msr_baker.webp" class="img-fluid" alt="Baker MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="baker-scaffolding"><?php echo ___('Baker Scaffolding') ?></a></p>
@@ -46,7 +46,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="suspended-scaffold"><img src="https://miamiscaffoldrental.com/images/suspended.webp" class="img-fluid" alt="Suspended MIASCFR"></a>
+    								<a href="suspended-scaffold"><img src="https://miamiscaffoldrental.com/images/suspended.webp" class="img-fluid" alt="Suspended MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="suspended-scaffold"><?php echo ___('Suspended Scaffold') ?></a></p>
@@ -57,7 +57,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="post-shoring"><img src="https://miamiscaffoldrental.com/images/shoring.webp" class="img-fluid" alt="Shoring MIASCFR"></a>
+    								<a href="post-shoring"><img src="https://miamiscaffoldrental.com/images/shoring.webp" class="img-fluid" alt="Shoring MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="post-shoring"><?php echo ___('Shoring') ?></a></p>
@@ -68,7 +68,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="scissor-lift"><img src="https://miamiscaffoldrental.com/images/msr_scissor.webp" class="img-fluid" alt="Scissor MIASCFR"></a>
+    								<a href="scissor-lift"><img src="https://miamiscaffoldrental.com/images/msr_scissor.webp" class="img-fluid" alt="Scissor MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="scissor-lift"><?php echo ___('Scissor Lift') ?></a></p>
@@ -79,7 +79,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="boom-lift"><img src="https://miamiscaffoldrental.com/images/msr_boom.webp" class="img-fluid" alt="Boom MIASCFR"></a>
+    								<a href="boom-lift"><img src="https://miamiscaffoldrental.com/images/msr_boom.webp" class="img-fluid" alt="Boom MIASCFR" loading="lazy"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="boom-lift"><?php echo ___('Boom Lift') ?></a></p>
