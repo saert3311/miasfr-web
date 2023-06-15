@@ -102,7 +102,7 @@
         </div>
         <div class="col-md-6 col-lg-8 pl-lg-5 py-5">
           <div class="row justify-content-start pb-3">
-            <div class="col-md-12 heading-section ftco-animate">
+            <div class="col-md-12 heading-section">
               <span class="subheading"><?php echo ___('ABOUT US') ?></span>
               <h2 class="mb-4"><?php echo ___('Locally Owned and Operated') ?></h2>
               <p><?php echo ___('We are a fast growing, independent, scaffolding rental company in the city of Miami. Delivering top quality equipment with strong customer service. Focused on building long term relationships, whether you just want to replace light bulbs, repaint your house or start you next big construction project. In a business where new challenges and opportunities arise daily, our knowledgeable staff consistently delivers.') ?></p>
@@ -118,7 +118,7 @@
   <section class="ftco-counter img pb-5 pt-5" id="reviews">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-12 heading-section text-center ftco-animate">
+        <div class="col-md-12 heading-section text-center">
           <span class="subheading"><?php echo ___('WHAT PEOPLE SAY ABOUT US?') ?></span>
           <h2 class="mb-4"></h2>
         </div>
