@@ -93,7 +93,7 @@
           <div class="col-md-6 col-lg-3 d-flex">
           	<div class="align-self-stretch box p-4 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
-          			<img src="images/address_icon_2.png" alt="Scaffolding on Rent">
+          			<img src="images/address_icon_2.webp" alt="Scaffolding on Rent">
           		</div>
           		<h3 class="mb-4"><?php echo ___('Address') ?></h3>
 	            <p>9955 NW 116th Way, Suite 8<br>Medley, FL 33178</p>
@@ -102,7 +102,7 @@
           <div class="col-md-6 col-lg-3 d-flex">
           	<div class="align-self-stretch box p-4 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
-          			<img src="images/phone_icon.png">
+          			<img src="images/phone_icon.webp">
           		</div>
           		<h3 class="mb-4"><?php echo ___('Phone') ?></h3>
 	            <p><a href="tel:+13055308090">305-530-8090</a></p>
@@ -111,7 +111,7 @@
           <div class="col-md-6 col-lg-3 d-flex">
           	<div class="align-self-stretch box pt-4 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
-          			<img src="images/email_icon.png" alt="Miami Scaffold Rental">
+          			<img src="images/email_icon.webp" alt="Miami Scaffold Rental">
           		</div>
           		<h3 class="mb-4">Email</h3>
 	            <p><a href="mailto:info@miamiscaffoldrental.com">info@miamiscaffoldrental.com</a></p>
@@ -120,7 +120,7 @@
           <div class="col-md-6 col-lg-3 d-flex">
           	<div class="align-self-stretch box p-4 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
-          			<img src="images/hours_icon.png">
+          			<img src="images/hours_icon.webp">
           		</div>
           		<h3 class="mb-4"><?php echo ___('Hours') ?></h3>
 	            <p><?php echo ___('MON-SAT: 7:00 am to 4:00 pm<br>SUN: Closed') ?></p>

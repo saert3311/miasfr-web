@@ -46,7 +46,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="suspended-scaffold"><img src="https://miamiscaffoldrental.com/images/suspended.png" class="img-fluid" alt="Suspended MIASCFR"></a>
+    								<a href="suspended-scaffold"><img src="https://miamiscaffoldrental.com/images/suspended.webp" class="img-fluid" alt="Suspended MIASCFR"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="suspended-scaffold"><?php echo ___('Suspended Scaffold') ?></a></p>
@@ -57,7 +57,7 @@
     					<article class="item">
     						<div class="project">
     							<div class="img">
-    								<a href="post-shoring"><img src="https://miamiscaffoldrental.com/images/shoring.png" class="img-fluid" alt="Shoring MIASCFR"></a>
+    								<a href="post-shoring"><img src="https://miamiscaffoldrental.com/images/shoring.webp" class="img-fluid" alt="Shoring MIASCFR"></a>
     							</div>
     							<div class="text px-4">
     								<p><a href="post-shoring"><?php echo ___('Shoring') ?></a></p>

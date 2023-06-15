@@ -96,7 +96,7 @@ if($arrResponse["success"] == '1' && $arrResponse["action"] == $action && $arrRe
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-      <a class="navbar-brand" href="/"><picture><source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.png"><img alt="Miami Scaffolding Rental Service" class="erlogo" src="images/msr_logo_w.png"></picture></a>
+      <a class="navbar-brand" href="/"><picture><source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.webp"><img alt="Miami Scaffolding Rental Service" class="erlogo" src="images/msr_logo_w.webp"></picture></a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span><?php echo ___('Menu') ?>
 	      </button>

@@ -29,7 +29,7 @@
     <div class="container">
       <a class="navbar-brand" href="/">
         <picture>
-          <source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.png"><img class="erlogo" src="images/msr_logo_bw.png" alt="Miami Scaffolding Rental Service">
+          <source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.webp"><img class="erlogo" src="images/msr_logo_bw.webp" alt="Miami Scaffolding Rental Service">
         </picture>
       </a>
       <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -125,7 +125,7 @@
       </div>
       <div class="row d-flex">
         <div class="col-md-3 col-lg-3 d-flex .d-none .d-sm-block">
-          <img src="images/google-reviews.png" class="img-fluid greviews" alt="Google Reviews">
+          <img src="images/google-reviews.webp" class="img-fluid greviews" alt="Google Reviews">
         </div>
         <div class="col">
           <div id="google-reviews"></div>
@@ -176,7 +176,7 @@
     }
   </script>
   <div class="mobile-call"><a href="tel:+13057901410"><button type="button" class="btn btn-primary"><span class="icon icon-phone"></span></button></a></div>
-  <div class="logo-mobile"><img src="images/msr_logo_bw.png" alt="Miami Scaffolding Rental Service"></div>
+  <div class="logo-mobile"><img src="images/msr_logo_bw.webp" alt="Miami Scaffolding Rental Service"></div>
 </body>
 
 </html>
