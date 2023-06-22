@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="css/owl.carousel.min.css">
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="css/icomoon.css">
   <link rel="stylesheet" href="css/cookiealert.css">
   <script src="js/modernizr.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/style.css">

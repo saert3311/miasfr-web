@@ -13,8 +13,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://miamiscaffoldrental.com” />
   <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
-  <link rel="stylesheet" href="css/google-places.css">
   <?php require 'common_header.php' ?>
+  <link rel="stylesheet" href="css/google-places.css">
   <meta property="og:title" content="Miami Scaffolding Rental Service| Planning your New Project?">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com"/>
@@ -54,7 +54,9 @@
           <li class="nav-item"><a href="#" class="nav-link " data-nav-section="about"><span class="nav-link-aboutus"><?php echo ___('About Us') ?></span></a></li>
           <li class="nav-item"><a href="hoist-repair-services" class="external nav-link"><span><?php echo ___('Hoist Repair') ?></span></a></li>
           <li class="nav-item"><a href="contact" class="external nav-link"><span><?php echo ___('Contact') ?></span></a></li>
-          <li class="nav-item cta"><a href="tel:+13055308090" class="external nav-link nav-link-callus"><span class="icon icon-phone" style="font-size:20px;padding-right:5px"></span><span><?php echo ___('Call Us') ?></span></a></li>
+          <li class="nav-item cta"><a href="tel:+13055308090" class="external nav-link nav-link-callus">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              </span><span><?php echo ___('Call Us') ?></span></a></li>
           <li class="nav-item banderita"><a href="https://es.miamiscaffoldrental.com" class="external nav-link bandera" alt="Spanish"><span class="flag es"></span></a></li>
         </ul>
       </div>
