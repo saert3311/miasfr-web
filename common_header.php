@@ -6,7 +6,9 @@
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#64aae0">
 	<meta name="msapplication-TileColor" content="#64aae0">
 	<meta name="theme-color" content="#ffffff">
-  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
   <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="css/owl.carousel.min.css">
