@@ -59,8 +59,6 @@
 	};
 	loader();
 
-	// Scrollax
-   $.Scrollax();
 
 
 

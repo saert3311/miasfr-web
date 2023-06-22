@@ -66,10 +66,10 @@
   <section class="hero-wrap js-fullheight" data-section="home">
     <div class="overlay"></div>
     <div class="container">
-      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
-        <div class="col-md-8 ftco-animate mt-5" data-scrollax=" properties: { translateY: '70%' }">
-          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?php echo ___('Fast Growing. Independent.<br>Scaffolding Rental Company') ?></h1>
-          <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
+      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
+        <div class="col-md-8 ftco-animate mt-5">
+          <h1 class="mb-4"><?php echo ___('Fast Growing. Independent.<br>Scaffolding Rental Company') ?></h1>
+          <p class="mb-4"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
         </div>
       </div>
     </div>
