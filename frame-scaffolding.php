@@ -35,7 +35,7 @@
     <div class="container">
       <h1 class="mb-4"><?php echo ___('Frame Scaffolding') ?></h1>
       <div class="row mb-3">
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('Our scaffolding framing solutions eradicates problems that arise such as limited access to the areas or obstacles come across at the job site. There’s a wide variety of configurations and options available that saves on labor and time. It erects quickly and eradicates the needs for numerous loose fitting connections to be made. The Framing scaffolds are lighter, faster and stronger, and also an essential element of the construction industry that makes the life of workers easier. It is a valuable and life-saving structure. The scaffolding system makes the life easier for the construction firm or builder who builds low rise and high rise homes, helping you beat the deadlines of the work as it quickens the pace of construction.') ?></p>
         </div>
         <div class="col-md-6">

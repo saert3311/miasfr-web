@@ -35,11 +35,11 @@
     <div class="container">
       <h1 class="mb-4"><?php echo ___('Baker Scaffold') ?></h1>
       <div class="row mb-3">
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('Baker scaffolding is also known as multi-purpose scaffolding. It can be used for several of projects going around your house, business or industrial application. The Baker scaffold is flexible with a working area of 6x3 ft; it is adjustable and can be safely stacked (up to 24 ft.). Our baker scaffolding unit is commercial grade that can be used for household work as well. It has a convenient locking system which allows you to quickly height adjustment. Scaffolding rentals are economical that helps you reach the toughest space with the ease.') ?></p>
           <p><?php echo ___('The safety of your employees should come as a first. Chances of getting injury and accidents are always high, so get rid of it. There is a risk of falling when employees work on heights. Opt for a scaffolding rental option that serves you as a secure fixed platform and reduce the risk of injury.') ?></p>
         </div>
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('If we compare the ladder with scaffold structure, it is more convenient, it saves a lot of time by speeding up your project. Ladders are not a secure platform whereas the scaffolding rental option enables your employees to work on greater heights without moving scaffold. Baker scaffolding protects your building as the weight is supported on a separate platform. We can install and fix them anywhere as it is made up of different parts.') ?></p>
           <p><?php echo ___('These work platforms offer contractors and consumers affordability, mobility, safety and ease of use. No tools required, with tower sets up to 24’ height. We also offer:') ?></p>
           <ul> 

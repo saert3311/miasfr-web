@@ -35,10 +35,10 @@
     <div class="container">
       <h1 class="mb-4"><?php echo ___('Post Shores') ?></h1>
       <div class="row mb-3">
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('Post shores require minimal maintenance that can be converted to shoring frames if required. They are durable, reduce labor expense and help you in finishing up the job on time. Post shoring is more efficient as of its lightweight. Single men can handle, assemble and dismantle it providing a streamlined operation. Post shores scale down your inventory more as they are backed with demountable ledgers that can be easily converted to frames. Each post shore accepts bolts with three different heads that are equipped with a full-length vertical t-bolt slot on all the slides. This saves your time and money. Shoring post enables you to conserve capital for other projects and opportunities as no need for capital to be invested in buying or repairing the post shores.') ?></p>
         </div>
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('No need of repair, wear and tear happens to trench boxes and slide rail systems. This also comes in our part. We repair wear and tear in our location. Shoring post rental allows you to get the job done promptly as you have the exact equipment needed for specific job you were looking for.') ?></p>
           <p><?php echo ___('We offer a quick, easy and safe way to support structures. With wide range of heights (5’ to 16’) and load capacities up to 8,000 Lbs per unit, our post shores are a great solution for a wire range of applications.') ?></p>
         </div>

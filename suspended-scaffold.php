@@ -35,11 +35,11 @@
     <div class="container">
       <h1 class="mb-4"><?php echo ___('Suspended Scaffold') ?></h1>
       <div class="row mb-4">
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('Suspended scaffold is also known as swing-stage scaffold, that play an outstanding role in elevated construction. Suspended scaffold provides access and working platform for construction, inspection; repair or maintenance. It can be raised or lowered when required. Usually, there are two-point adjustable suspension scaffolds that window washers use on skyscrapers.') ?></p>
           <p><?php echo ___('Suspended scaffold comes in a variety of models that enables workers or engineers to work on heights. A few examples where suspended scaffolding comes in use: Repair or window clean, refurbishing or decorating, concrete restoration and painting on buildings, etc. It consists of three main elements: a platform to work, a supporting frame and a suspension system.') ?></p>
         </div>
-        <div class="col-md-6 ftco-animate">
+        <div class="col-md-6 ">
           <p><?php echo ___('Suspended scaffold is durable and lightweight as their bearing parts are made up of hot-dipped GI and components with an anti-corrosive powder coating that makes the scaffolding system to withstand unfavorable weather condition. It is made up of aluminum that has a low density and it resists corrosion. It is very adaptable as you can adjust the working height according to your preference. You can easily access facades and walls. Suspended scaffolding is versatile; it can be used for a variety of projects.') ?></p>
           <p><?php echo ___('The perfect solution. for high-rise exterior access. Supported by cables connected to stirrups at each end of the platform. They are additionally equipped with an electrical motor to permit the platform to be raised and lowered as needed. Best used by facade restoration companies on high-rise buildings these platforms are integral to moving personnel and building materials for construction as well.') ?></p>
         </div>
