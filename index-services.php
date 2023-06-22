@@ -1,7 +1,7 @@
     <section class="ftco-section ftco-project" data-section="services" id="the-services">
     	<div class="container px-md-5">
     		<div class="row justify-content-center pb-5">
-    			<div class="col-md-12 heading-section text-center ftco-animate">
+    			<div class="col-md-12 heading-section text-center ">
     				<span class="subheading"><?php echo ___('WHAT WE RENT?') ?></span>
     				<h2 class="mb-4"><?php echo ___('Our Services') ?></h2>
     				<p><?php echo ___('We maintain a full line of scaffold equipment and accessories to meet all your access needs. Our extensive inventory includes:') ?></p>

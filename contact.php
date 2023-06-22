@@ -31,7 +31,7 @@
     <section class="contact-section bg-light pt-5 pb-5" data-section="contact" id="contacto">
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-7 heading-section text-center ftco-animate">
+          <div class="col-md-7 heading-section text-center ">
             <span class="subheading"><?php echo ___('HAVE A QUESTION?') ?></span>
             <h1 class="mb-4"><?php echo ___('Contact Us') ?></h1>
             <p><?php echo ___('Please, fill out the form bellow.<br>A team member will reach out to help you') ?></p>

@@ -22,7 +22,7 @@ require 'languages.php'
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-end justify-content-center">
-        <div class="col-md-9 ftco-animate pb-5 text-center">
+        <div class="col-md-9  pb-5 text-center">
         </div>
       </div>
     </div>
@@ -31,7 +31,7 @@ require 'languages.php'
   <section class="ftco-section">
     <div class="container">
       <div class="row d-flex justify-content-center">
-        <div class="col-lg-8 order-lg-last ftco-animate">
+        <div class="col-lg-8 order-lg-last ">
           <h2 class="mb-4">Cookie Policy</h2>
           <p>On this website, third-party and own cookies are used to provide you with a better browsing experience, enable you to share content on social media, and gather user statistics.</p>
           <p>You can prevent the downloading of cookies by adjusting your browser settings to block the storage of cookies on your device.</p>

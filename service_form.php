@@ -1,7 +1,7 @@
 <section id="main-contact" class="hero-wrap bg-light">
       <div class="container py-5">
         <div class="row justify-content-center">
-        <div class="col-12 col-md-4 heading-section ftco-animate fadeInUp ftco-animated">
+        <div class="col-12 col-md-4 heading-section  fadeInUp d">
             <span class="subheading mb-0"><?php echo ___('HAVE A QUESTION?') ?></span>
             <span class="subheading"><?php echo ___('NEED AN ESTIMATE?') ?></span>
             <p class="mb-2 heading-title"><?php echo ___('Contact Us') ?></p>
