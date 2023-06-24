@@ -3,8 +3,8 @@
         <div class="row mb-2">
           <div class="col-12 col-md-6 my-2">
             <div class="ftco-footer-widget d-flex justify-content-center justify-content-sm-start flex-wrap">
-              <img src="images/msr_logo_bw.webp" alt="Miami Scaffold Rental" style="max-height:90px;margin-bottom:7px">
-              <a href="https://www.saiaonline.org/" target="_blank" rel="noopener noreferrer nofollow" class="px-4 align-self-end"><img style="max-height: 70px;margin-left: -5px;" src="images/saia-logo-white.webp" alt="SAIA Logo"></a>
+              <img src="images/msr_logo_bw.webp" alt="Miami Scaffold Rental" style="max-height:90px;margin-bottom:7px" width="180" height="90">
+              <a href="https://www.saiaonline.org/" target="_blank" rel="noopener noreferrer nofollow" class="px-4 align-self-end"><img style="max-height: 70px;margin-left: -5px;" src="images/saia-logo-white.webp" alt="SAIA Logo" width="121" height="70"></a>
             </div>
           </div>
           <div class="col-12 col-md-6 my-2">
@@ -61,7 +61,6 @@
       $(window).scroll(function() {
         let navbar = $('#ftco-nav');
         if ($("#ftco-nav").hasClass("show")) {
-          console.log('Culo')
           $('.js-fh5co-nav-toggle').click()
         }
       });
