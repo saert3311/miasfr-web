@@ -152,6 +152,7 @@
       "name": "Miami Scaffold Rental",
       "url": "https://miamiscaffoldrental.com/",
       "telephone": "+13055308090",
+      "priceRange" : "$$",
       "logo": "https://miamiscaffoldrental.com/images/msr_logo_bw.png",
       "image": "https://miamiscaffoldrental.com/images/banner_1.webp",
       "description": "Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.",
