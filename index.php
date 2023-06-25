@@ -6,19 +6,19 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('Miami Scaffolding Rental Service| Planning your New Project?') ?></title>
+  <title><?php echo ___('Certified Scaffold Rentals in Miami: Access Solutions, Platforms & More for Your Construction') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="<?php echo ___('We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.') ?>">
+  <meta name="description" content="<?php echo ___('Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.') ?>">
   <meta name="Keywords" content="<?php echo ___('scaffolding rental, scaffolding rental service, scaffolding florida, shoring post rental') ?>"
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://miamiscaffoldrental.com” />
   <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
   <?php require 'common_header.php' ?>
   <link rel="stylesheet" href="css/google-places.css">
-  <meta property="og:title" content="Miami Scaffolding Rental Service| Planning your New Project?">
+  <meta property="og:title" content="Certified Scaffold Rentals in Miami: Access Solutions, Platforms & More for Your Construction">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com"/>
-  <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
+  <meta property="og:description" content="Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.">
   <meta property="og:type" content="business.business">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -143,7 +143,7 @@
   <script>
     $("footer").attr("style", "margin:0!important");
   </script>
-  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyA3lL2cKoevidwvZiCGHaVH-eQWDfj2TM0"></script>
+  <script async src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyA3lL2cKoevidwvZiCGHaVH-eQWDfj2TM0"></script>
   <script src="js/google-places.js "></script>
   <script type='application/ld+json'>
     {
@@ -153,8 +153,8 @@
       "url": "https://miamiscaffoldrental.com/",
       "telephone": "+13055308090",
       "logo": "https://miamiscaffoldrental.com/images/msr_logo_bw.png",
-      "image": "https://lh3.ggpht.com/p/AF1QipMbQJqgN1L2AoS75g4ttoYR2ry3ZHtpN6lWcWz0",
-      "description": "We are a fast growing, independent, scaffolding rental company in the city of Miami. Delivering top quality equipment with strong customer service",
+      "image": "https://miamiscaffoldrental.com/images/banner_1.webp",
+      "description": "Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "9955 NW 116th Way, Suite 8",
@@ -169,7 +169,7 @@
         "longitude": "-80.3629207"
       },
       "hasMap": "https://g.page/miamiscaffoldrental",
-      "openingHours": "Mo, Tu, We, Th, Fr, Sa 08:00-17:00",
+      "openingHours": "Mo, Tu, We, Th, Fr, Sa 07:00-16:00",
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Customer support",
