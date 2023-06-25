@@ -1,7 +1,7 @@
 <?php
 // Get current domain
 
-$currentURL = $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$currentURL = $_SERVER['HTTP_HOST'];
 
 // Extract the subdomain
 $divided_url = explode('.', $currentURL);

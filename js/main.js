@@ -149,29 +149,6 @@
 	
 
 	var carousel = function() {
-		$('.carousel-testimony').owlCarousel({
-			autoplay: true,
-			autoHeight: true,
-			center: true,
-			loop: true,
-			items:1,
-			margin: 30,
-			stagePadding: 0,
-			nav: true,
-			dots: false,
-			navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
-			responsive:{
-				0:{
-					items: 1
-				},
-				600:{
-					items: 1
-				},
-				1000:{
-					items: 1
-				}
-			}
-		});
 		//los scaffolds
 		$('.carousel-project').owlCarousel({
 			autoplay: false,
@@ -184,30 +161,7 @@
 			nav: true,
 			dots: false,
 			mouseDrag: false,
-			navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
-			responsive:{
-				0:{
-					items: 1
-				},
-				600:{
-					items: 2
-				},
-				1000:{
-					items: 3
-				}
-			}
-		});
-		$('.scaffold-galery').owlCarousel({
-			autoplay: true,
-			autoHeight: true,
-			center: false,
-			loop: true,
-			items:1,
-			margin: 30,
-			stagePadding: 0,
-			nav: true,
-			dots: false,
-			mouseDrag: false,
+			navText: ['<img src="images/chevron-left.svg">', '<img src="images/chevron-right.svg">'],
 			responsive:{
 				0:{
 					items: 1

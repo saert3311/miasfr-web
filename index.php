@@ -68,7 +68,7 @@
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
         <div class="col-md-8 mt-5">
-          <h1 class="mb-4"><?php echo ___('Fast Growing. Independent.<br>Scaffolding Rental Company') ?></h1>
+          <h1 class="mb-4"><?php echo ___('Enhance Efficiency and Safety with Our Comprehensive Scaffold Solutions') ?></h1>
           <p class="mb-4"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
         </div>
       </div>
