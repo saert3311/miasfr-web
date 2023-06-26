@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4 service-title text-center"><?php echo ___('Quick and Easy System Scaffold Rentals for Versatile Construction Projects') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Quick and Easy <span class="is_bluex">System Scaffold</span> Rentals for Versatile Construction Projects') ?></h1>
       <div class="row mb-3 justify-content-center">
         <div class="col-md-6 ">
           <p><?php echo ___('The system scaffolding is quick and easy to erect, and provides a superior working platform compared to traditional scaffolding. I also provides a better aesthetic finish.') ?></p>
