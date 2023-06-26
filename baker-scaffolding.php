@@ -6,19 +6,19 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('Baker Scaffolding | Any Size Project at Low Rates') ?></title>
+  <title><?php echo ___('Versatile Baker Scaffold Rentals: Reach Greater Heights with Ease | Miami Scaffold Rental') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="<?php echo ___('Reduce your job site cost without sacrificing safety and convenience with the baker scaffolding and accessories from Miami scaffolding rental.') ?>">
+  <meta name="description" content="<?php echo ___('Need affordable and mobile access solutions? Our baker scaffold rentals are the answer. Easily stackable, height adjustable, and requiring no tools for installation, they provide convenience for any project. Contact Miami Scaffold Rental for reliable scaffolding services.') ?>">
   <meta name="Keywords" content="baker scaffolding, baker scaffold, bakers scaffold, bakers scaffolding">
   <link rel="canonical" href="https://miamiscaffoldrental.com/baker-scaffolding" />
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/baker-scaffolding" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
-  <meta property="og:title" content="<?php echo ___('Baker Scaffolding | Any Size Project at Low Rates') ?>">
+  <meta property="og:title" content="<?php echo ___('Versatile Baker Scaffold Rentals: Reach Greater Heights with Ease | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com/baker-scaffolding"/>
-  <meta property="og:description" content="We are a fast growing, independent, scaffolding Rental Company in the city of Miami. Delivering top quality equipment with strong customer service.">
+  <meta property="og:description" content="Need affordable and mobile access solutions? Our baker scaffold rentals are the answer. Easily stackable, height adjustable, and requiring no tools for installation, they provide convenience for any project. Contact Miami Scaffold Rental for reliable scaffolding services.">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.jpg">
 </head>
@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('Baker Scaffold') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Versatile <span class="is_blue">Baker Scaffold</span> Rentals: Reach Greater Heights with Ease') ?></h1>
       <div class="row mb-3">
         <div class="col-md-6 ">
           <p><?php echo ___('Baker scaffolding is also known as multi-purpose scaffolding. It can be used for several of projects going around your house, business or industrial application. The Baker scaffold is flexible with a working area of 6x3 ft; it is adjustable and can be safely stacked (up to 24 ft.). Our baker scaffolding unit is commercial grade that can be used for household work as well. It has a convenient locking system which allows you to quickly height adjustment. Scaffolding rentals are economical that helps you reach the toughest space with the ease.') ?></p>

@@ -6,18 +6,18 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('Scissor Lift on Hire | Electric Lift Save Your Time and Money') ?></title>
+  <title><?php echo ___('Reliable Scissor Lift Rentals: Safe and Convenient Vertical Transportation | Miami Scaffold Rental') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="<?php echo ___('Rent a scissor lift today. Call us now. All makes and models available. Choose from various types of scissors liftavailable for rent now.') ?>">
+  <meta name="description" content="<?php echo ___('Looking for versatile vertical access solutions? Our scissor lift rentals offer efficient and flexible options for construction projects. Contact Miami Scaffold Rental for reliable and convenient vertical transportation.') ?>">
   <meta name="Keywords" content="electric scissors, scissor lift rental, scissor rental, electric scissor lift rental near me">
   <link rel="canonical" href="https://miamiscaffoldrental.com/scissor-lift" />
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/scissor-lift" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
-  <meta property="og:title" content="<?php echo ___('Scissor Lift on Hire | Electric Lift Save Your Time and Money') ?>">
+  <meta property="og:title" content="<?php echo ___('Reliable Scissor Lift Rentals: Safe and Convenient Vertical Transportation | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com/scissor-lift"/>
-  <meta property="og:description" content="<?php echo ___('Rent a scissor lift today. Call us now. All makes and models available. Choose from various types of scissors liftavailable for rent now.') ?>">
+  <meta property="og:description" content="<?php echo ___('Looking for versatile vertical access solutions? Our scissor lift rentals offer efficient and flexible options for construction projects. Contact Miami Scaffold Rental for reliable and convenient vertical transportation.') ?>">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -32,7 +32,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('Scissor Lift') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Reliable <span class="is_blue">Scissor Lift</span> Rentals: Safe and Convenient Vertical Transportation') ?></h1>
       <div class="row">
         <div class="col-md-6 ">
           <p><?php echo ___('A scissor lift serves as the best solution to transport diverse material. Electric scissor lift can be used for both indoor and outdoor work whereas diesel scissor lift can be used for outdoor. Scissor lift can uplift 3 workers to complete any demanding job. They have the highest load capacity if we compare with all types of work platform. It provides extra reach with a straight vertical elevation that is simple to use.') ?></p>

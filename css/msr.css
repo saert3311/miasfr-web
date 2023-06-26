@@ -3377,3 +3377,6 @@ body {
 .service-title{
   font-size: 1.9rem;
 }
+.is_blue{
+  color: var(--primary)
+}

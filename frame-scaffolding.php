@@ -6,8 +6,8 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('Frame Scaffolding on Rent | At Best Price | Miami Scaffolding Rental') ?></title>
-  <meta name="description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
+  <title><?php echo ___('Labor-Saving Framing Scaffold Rentals for Construction and Remodeling | Miami Scaffold Rental') ?></title>
+  <meta name="description" content="<?php echo ___('Looking for labor-saving solutions for your construction projects? Our framing scaffold rentals offer quick and efficient setup, helping you beat project deadlines and speed up construction. Contact Miami Scaffold Rental for professional scaffolding services.') ?>">
   <meta name="Keywords" content="scaffold rental, rental scaffolding, scaffold stair tower, stair scaffold, scaffolds of florida">
   <meta charset="utf-8">
   <link rel="canonical" href="https://miamiscaffoldrental.com/frame-scaffolding" />
@@ -15,10 +15,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
-  <meta property="og:title" content="<?php echo ___('Frame Scaffolding on Rent | At Best Price | Miami Scaffolding Rental') ?>">
+  <meta property="og:title" content="<?php echo ___('Labor-Saving Framing Scaffold Rentals for Construction and Remodeling | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com/frame-scaffolding"/>
-  <meta property="og:description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
+  <meta property="og:description" content="<?php echo ___('Looking for labor-saving solutions for your construction projects? Our framing scaffold rentals offer quick and efficient setup, helping you beat project deadlines and speed up construction. Contact Miami Scaffold Rental for professional scaffolding services.') ?>">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('Frame Scaffolding') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Labor-Saving <span class="is_blue">Framing Scaffold</span> Rentals for Construction and Remodeling') ?></h1>
       <div class="row mb-3">
         <div class="col-md-6 ">
           <p><?php echo ___('Our scaffolding framing solutions eradicates problems that arise such as limited access to the areas or obstacles come across at the job site. There’s a wide variety of configurations and options available that saves on labor and time. It erects quickly and eradicates the needs for numerous loose fitting connections to be made. The Framing scaffolds are lighter, faster and stronger, and also an essential element of the construction industry that makes the life of workers easier. It is a valuable and life-saving structure. The scaffolding system makes the life easier for the construction firm or builder who builds low rise and high rise homes, helping you beat the deadlines of the work as it quickens the pace of construction.') ?></p>

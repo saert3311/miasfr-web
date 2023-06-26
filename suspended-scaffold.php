@@ -6,19 +6,19 @@
 <html lang="<?php $language ?>">
 
 <head>
-  <title><?php echo ___('Suspended Scaffolding at Guaranteed Lowest Price| Call Us Today') ?></title>
+  <title><?php echo ___('Safe and Durable Suspended Scaffold Rentals for High-Rise Projects | Miami Scaffold Rental') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="<?php echo ___('Suspended Scaffolding is an adjustable solution for working on high rise building. They are also known as swing stay suspended scaffolding.') ?>">
+  <meta name="description" content="<?php echo ___("Maximize your construction operations with our efficient suspended scaffold rentals. Whether it's repair, maintenance, or painting on high-rise buildings, these scaffolds offer durability and accessibility. Contact Miami Scaffold Rental for reliable access solutions.") ?>">
   <meta name="Keywords" content="suspended scaffolding, suspended scaffold">
   <link rel="canonical" href="https://miamiscaffoldrental.com/suspended-scaffold" />
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/suspended-scaffold" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
-  <meta property="og:title" content="<?php echo ___('Suspended Scaffolding at Guaranteed Lowest Price| Call Us Today') ?>">
+  <meta property="og:title" content="<?php echo ___('Safe and Durable Suspended Scaffold Rentals for High-Rise Projects | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com/suspended-scaffold"/>
-  <meta property="og:description" content="<?php echo ___('Suspended Scaffolding is an adjustable solution for working on high rise building. They are also known as swing stay suspended scaffolding.') ?>">
+  <meta property="og:description" content="<?php echo ___("Maximize your construction operations with our efficient suspended scaffold rentals. Whether it's repair, maintenance, or painting on high-rise buildings, these scaffolds offer durability and accessibility. Contact Miami Scaffold Rental for reliable access solutions.") ?>">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('Suspended Scaffold') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Safe and Durable <span class="is_blue">Suspended Scaffold</span> Rentals for High-Rise Projects') ?></h1>
       <div class="row mb-4">
         <div class="col-md-6 ">
           <p><?php echo ___('Suspended scaffold is also known as swing-stage scaffold, that play an outstanding role in elevated construction. Suspended scaffold provides access and working platform for construction, inspection; repair or maintenance. It can be raised or lowered when required. Usually, there are two-point adjustable suspension scaffolds that window washers use on skyscrapers.') ?></p>
