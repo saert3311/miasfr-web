@@ -6,8 +6,8 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('System Scaffold on Rent | At Best Price | Miami Scaffolding Rental') ?></title>
-  <meta name="description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
+  <title><?php echo ___('Quick and Easy System Scaffold Rentals for Versatile Construction Projects | Miami Scaffold Rental') ?></title>
+  <meta name="description" content="<?php echo ___('Maximize your construction efficiency with our system scaffold rentals. From fast setup to better aesthetics and superior capabilities, our modular scaffolding is perfect for a wide range of projects. Contact Miami Scaffold Rental for reliable solutions.') ?>">
   <meta name="Keywords" content="scaffold rental, rental scaffolding, scaffold stair tower, stair scaffold, scaffolds of florida">
   <meta charset="utf-8">
   <link rel="canonical" href="https://miamiscaffoldrental.com/system-scaffold" />
@@ -15,10 +15,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
-  <meta property="og:title" content="<?php echo ___('System Scaffold on Rent | At Best Price | Miami Scaffolding Rental') ?>">
+  <meta property="og:title" content="<?php echo ___('Quick and Easy System Scaffold Rentals for Versatile Construction Projects | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com"/>
-  <meta property="og:description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.') ?>">
+  <meta property="og:description" content="<?php echo ___('Rent a scaffolding stair tower from the number 1 rental scaffolding provider that has achieved laurels in providing a comprehensive range of scaffolding rental.Maximize your construction efficiency with our system scaffold rentals. From fast setup to better aesthetics and superior capabilities, our modular scaffolding is perfect for a wide range of projects. Contact Miami Scaffold Rental for reliable solutions.') ?>">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('System Scaffold') ?></h1>
+      <h1 class="mb-4 service-title text-center"><?php echo ___('Quick and Easy System Scaffold Rentals for Versatile Construction Projects') ?></h1>
       <div class="row mb-3 justify-content-center">
         <div class="col-md-6 ">
           <p><?php echo ___('The system scaffolding is quick and easy to erect, and provides a superior working platform compared to traditional scaffolding. I also provides a better aesthetic finish.') ?></p>
