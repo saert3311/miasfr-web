@@ -1,34 +1,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: miasfr-web\n"
-"POT-Creation-Date: 2023-06-01 00:35-0400\n"
-"PO-Revision-Date: 2023-06-01 00:35-0400\n"
+"POT-Creation-Date: 2023-06-26 16:01-0400\n"
+"PO-Revision-Date: 2023-06-26 17:04-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: ___\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: baker-scaffolding.php:9
-msgid "Baker Scaffolding | Any Size Project at Low Rates"
+#: baker-scaffolding.php:9 baker-scaffolding.php:18
+msgid ""
+"Versatile Baker Scaffold Rentals: Reach Greater Heights with Ease | Miami "
+"Scaffold Rental"
 msgstr ""
+"Alquiler de Andamios Baker: Alcanza Mayores Alturas con Facilidad | Miami "
+"Scaffold Rental"
 
 #: baker-scaffolding.php:11
 msgid ""
-"Reduce your job site cost without sacrificing safety and convenience with "
-"the baker scaffolding and accessories from Miami scaffolding rental."
+"Need affordable and mobile access solutions? Our baker scaffold rentals are "
+"the answer. Easily stackable, height adjustable, and requiring no tools for "
+"installation, they provide convenience for any project. Contact Miami "
+"Scaffold Rental for reliable scaffolding services."
 msgstr ""
+"¿Necesitas soluciones de acceso móviles y asequibles? Nuestros andamios son "
+"la respuesta. Fácilmente apilables, ajustables en altura y no requieren "
+"herramientas para su instalación, brindan comodidad para cualquier proyecto. "
+"Contacta a Miami Scaffold Rental para obtener asesoría profesional."
 
-#: baker-scaffolding.php:30
-msgid "Baker Scaffold"
+#: baker-scaffolding.php:36
+msgid ""
+"Versatile <span class=\"is_blue\">Baker Scaffold</span> Rentals: Reach "
+"Greater Heights with Ease"
 msgstr ""
+"Alquiler de <span class=\"is_blue\">Andamios Baker:</span> Alcanza Mayores "
+"Alturas con Facilidad | Miami Scaffold Rental"
 
-#: baker-scaffolding.php:33
+#: baker-scaffolding.php:39
 msgid ""
 "Baker scaffolding is also known as multi-purpose scaffolding. It can be used "
 "for several of projects going around your house, business or industrial "
@@ -39,16 +54,30 @@ msgid ""
 "adjustment. Scaffolding rentals are economical that helps you reach the "
 "toughest space with the ease."
 msgstr ""
+"Los andamios Baker también son conocidos como andamios multiuso. Se pueden "
+"utilizar en diversos proyectos tanto en tu casa, negocio o aplicaciones "
+"industriales. El andamio Baker es flexible, con un área de trabajo de 6x3 "
+"pies; es ajustable y se puede apilar de manera segura (hasta 24 pies de "
+"altura). Nuestros andamios son de grado comercial y se pueden utilizar tanto "
+"para trabajos domésticos como comerciales. Cuenta con un sistema de bloqueo "
+"conveniente que te permite ajustar la altura rápidamente. El alquiler de "
+"este tipo de andamios es económico y te ayuda a llegar a los espacios más "
+"difíciles con facilidad."
 
-#: baker-scaffolding.php:34
+#: baker-scaffolding.php:40
 msgid ""
 "The safety of your employees should come as a first. Chances of getting "
 "injury and accidents are always high, so get rid of it. There is a risk of "
 "falling when employees work on heights. Opt for a scaffolding rental option "
 "that serves you as a secure fixed platform and reduce the risk of injury."
 msgstr ""
+"La seguridad de tus empleados debe ser lo primero. Siempre existe un alto "
+"riesgo de lesiones y accidentes, así que deshazte de ello. Existe un riesgo "
+"de caídas cuando los empleados trabajan a alturas elevadas. Opta por la "
+"opción de alquiler de andamios que te brinde una plataforma fija segura y "
+"reduzca el riesgo de lesiones."
 
-#: baker-scaffolding.php:37
+#: baker-scaffolding.php:43
 msgid ""
 "If we compare the ladder with scaffold structure, it is more convenient, it "
 "saves a lot of time by speeding up your project. Ladders are not a secure "
@@ -57,37 +86,64 @@ msgid ""
 "your building as the weight is supported on a separate platform. We can "
 "install and fix them anywhere as it is made up of different parts."
 msgstr ""
+"Si comparamos la escalera con un andamio, este último resulta más "
+"conveniente, ya que ahorra mucho tiempo al acelerar tu proyecto. Las "
+"escaleras no son una plataforma segura, mientras que los andamios permiten "
+"que tus empleados trabajen a alturas mayores sin tener que mover el andamio. "
+"Los andamios baker protegen tu edificio, ya que el peso se soporta en una "
+"plataforma separada. Además, se pueden instalar y fijar en cualquier lugar, "
+"ya que están compuestos por diferentes partes."
 
-#: baker-scaffolding.php:38
+#: baker-scaffolding.php:44
 msgid ""
 "These work platforms offer contractors and consumers affordability, "
 "mobility, safety and ease of use. No tools required, with tower sets up to "
 "24’ height. We also offer:"
 msgstr ""
+"Estas plataformas de trabajo ofrecen a contratistas y consumidores una "
+"opción asequible, móvil, segura y fácil de usar. No se requieren "
+"herramientas y se pueden configurar en torres de hasta 24 pies de altura. "
+"Además, también ofrecemos:"
 
-#: baker-scaffolding.php:40
+#: baker-scaffolding.php:46
 msgid ""
 "<li>Guardrails</li>\n"
 "            <li>Outriggers</li>\n"
 "            <li>Casters</li>"
 msgstr ""
+"<li>Barandillas de seguridad</li>\n"
+"<li>Estabilizadores</li>\n"
+"<li>Ruedas giratorias</li>"
 
-#: boom-lift.php:9
-msgid "Lift Rental| Reliable and Dependable| Licensed and Insured"
+#: boom-lift.php:9 boom-lift.php:17
+msgid ""
+"Professional Boom Lift Rentals: Elevate Your Construction Efficiency | Miami "
+"Scaffold Rental"
 msgstr ""
+"Alquiler de Plataformas Elevadoras Profesionales: Mejora la Eficiencia de tu "
+"Construcción | Miami Scaffold Rental"
 
 #: boom-lift.php:11
 msgid ""
-"Get in touch with us for boom lift rental our team is available to help your "
-"fleet today. Get a Boom lift for your job site and 24\\7 support from the "
-"experts."
+"Looking for efficient and reliable boom lift rentals for your elevated "
+"construction projects? Miami Scaffold Rental offers versatile solutions to "
+"help you reach new heights with ease. Contact us for professional "
+"scaffolding services."
 msgstr ""
+"¿Estás buscando alquileres de plataformas elevadoras eficientes y confiables "
+"para tus proyectos de construcción en altura? Miami Scaffold Rental ofrece "
+"soluciones versátiles para ayudarte a alcanzar nuevas alturas con facilidad. "
+"Contáctanos para obtener servicios profesionales de andamiaje."
 
-#: boom-lift.php:29 index-services.php:85 index.php:45 ladders.php:46
-msgid "Boom Lift"
+#: boom-lift.php:35
+msgid ""
+"Professional <span class=\"is_blue\">Boom Lift</span> Rentals: Elevate Your "
+"Construction Efficiency"
 msgstr ""
+"Alquiler de <span class=\"is_blue\">Plataformas Elevadoras</span> "
+"profesionales: Aumenta la Eficiencia de tu Construcción"
 
-#: boom-lift.php:32
+#: boom-lift.php:38
 msgid ""
 "Boom lift is also known as the hydra ladder. You can easily carry people on "
 "the equipment’s aerially. Now day’s boom lift is the necessity of several "
@@ -99,8 +155,19 @@ msgid ""
 "stress as a boom lift rental service providers themselves repair and replace "
 "the instrument if the equipment of the boom lift breaks down."
 msgstr ""
+"La plataforma elevadora, también conocida como \"hydra ladder\" o \"boom "
+"lift\", permite transportar fácilmente a personas en el aire. Hoy en día, la "
+"plataforma elevadora es una necesidad en varias industrias. Los trabajadores "
+"de empresas eléctricas o telefónicas requieren una plataforma elevadora para "
+"acceder a las líneas de energía. Las empresas de construcción utilizan "
+"plataformas elevadoras para facilitar su trabajo. La tecnología avanza día a "
+"día, y los fabricantes están trabajando en nuevas tecnologías para crear "
+"equipos de elevación más confiables y económicos para finalizar los "
+"trabajos. Las personas no necesitan preocuparse, ya que los proveedores de "
+"servicios de alquiler de plataformas elevadoras se encargan de reparar y "
+"reemplazar los instrumentos en caso de que el equipo se averíe."
 
-#: boom-lift.php:35
+#: boom-lift.php:41
 msgid ""
 "Folks who look for boom lift rental service provider doesn’t need to take "
 "stress for the safety of boom lifts. If you book it for one day, you can use "
@@ -109,110 +176,145 @@ msgid ""
 "part comes under the policy of Rental Company which means they maintain "
 "their lifting equipment"
 msgstr ""
+"Aquellas personas que buscan un proveedor de servicios de alquiler de "
+"plataformas elevadoras no necesitan preocuparse por la seguridad de las "
+"mismas directamente dado que la empresa se encarga de verificar su "
+"funcionamiento. Si reservas una plataforma elevadora por un día, podrás "
+"utilizarla durante todo el día y la compañía de alquiler se encargará de "
+"recogerla. No es necesario preocuparse por el servicio si se alquila una "
+"plataforma elevadora. El mantenimiento forma parte de la política de la "
+"compañía de alquiler, lo que significa que ellos se encargan de mantener sus "
+"equipos de elevación."
 
-#: boom-lift.php:36
+#: boom-lift.php:42
 msgid ""
 "Articulating booms have great versatility and are great for tasks that "
 "require up-and-over positioning. Telescopic booms offer greater horizontal "
 "reach and are also ideal for access to work areas that are located over "
 "obstacles or barriers."
 msgstr ""
+"Las plataformas articuladas tienen una gran versatilidad y son ideales para "
+"tareas que requieren posicionamiento por encima de obstáculos. Las "
+"plataformas telescópicas ofrecen un mayor alcance horizontal y también son "
+"ideales para acceder a áreas de trabajo ubicadas por encima de obstáculos o "
+"barreras."
 
-#: contact.php:8
+#: contact.php:8 contact.php:16
 msgid "Contact Us | Scaffolding on Rent-Miami Scaffold Rental"
-msgstr ""
+msgstr "Contacto | Alquiler de Andamios - Miami Scaffold Rental"
 
-#: contact.php:10
+#: contact.php:10 contact.php:19
 msgid ""
 "Contact Miami Scaffold Rental for more details.Request a quote & get the "
 "best price.Expert scaffolding and over 40 years of experience."
 msgstr ""
+"Si deseas más detalles, ponte en contacto con Miami Scaffold Rental. "
+"Solicita un presupuesto y obtén el mejor precio. Contamos con expertos y más "
+"de 40 años de experiencia."
 
-#: contact.php:29 service_form.php:5
+#: contact.php:35 service_form.php:5
 msgid "HAVE A QUESTION?"
-msgstr ""
+msgstr "TIENES PREGUNTAS?"
 
-#: contact.php:30 ladders.php:35 service_form.php:7
+#: contact.php:36 ladders.php:35 service_form.php:7
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactanos"
 
-#: contact.php:31
+#: contact.php:37
 msgid ""
 "Please, fill out the form bellow.<br>A team member will reach out to help you"
 msgstr ""
-
-#: contact.php:38
-msgid "First Name"
-msgstr ""
-
-#: contact.php:41
-msgid "Last Name"
-msgstr ""
+"Completa el siguiente formulario:<br>Un miembro de nuestro equipo se pondrá "
+"en contacto contigo para ayudarte."
 
 #: contact.php:44
-msgid "Your Company Name"
-msgstr ""
+msgid "First Name"
+msgstr "Nombre"
+
+#: contact.php:47
+msgid "Last Name"
+msgstr "Apellido"
 
 #: contact.php:50
+msgid "Your Company Name"
+msgstr "Compañia"
+
+#: contact.php:56
 msgid "Zip Code"
-msgstr ""
+msgstr "Código Postal"
 
-#: contact.php:53 contact.php:101 service_form.php:26
+#: contact.php:59 contact.php:107 service_form.php:26
 msgid "Phone"
-msgstr ""
+msgstr "Teléfono"
 
-#: contact.php:57
+#: contact.php:63
 msgid "How did you hear about us?"
-msgstr ""
+msgstr "Como escuchaste de nosotros?"
 
-#: contact.php:58
+#: contact.php:64
 msgid "Referal"
-msgstr ""
+msgstr "Referido"
 
-#: contact.php:59
+#: contact.php:65
 msgid "Google Search"
-msgstr ""
+msgstr "Google"
 
-#: contact.php:60
+#: contact.php:66
 msgid "Printed Ad"
-msgstr ""
+msgstr "Aviso impreso"
 
-#: contact.php:69
+#: contact.php:75
 msgid "Subscribe to Newsletter"
-msgstr ""
+msgstr "Suscríbete al Boletín"
 
-#: contact.php:73 service_form.php:34
+#: contact.php:79 service_form.php:34
 msgid "Send Message"
-msgstr ""
+msgstr "Enviar"
 
-#: contact.php:92
+#: contact.php:98
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
-#: contact.php:119
+#: contact.php:125
 msgid "Hours"
-msgstr ""
+msgstr "Horario"
 
-#: contact.php:120
+#: contact.php:126
 msgid "MON-SAT: 7:00 am to 4:00 pm<br>SUN: Closed"
-msgstr ""
+msgstr "LUN-SAB 7:00 am hasta 4:00 pm<br>DOM: Cerrado"
 
-#: frame-scaffolding.php:9
-msgid "Frame Scaffolding on Rent | At Best Price | Miami Scaffolding Rental"
-msgstr ""
+#: cookies.php:9
+msgid "Miami Scaffold Rental - Cookies Policy"
+msgstr "Miami Scaffold Rental - Políticas de Privacidad"
 
-#: frame-scaffolding.php:10
+#: frame-scaffolding.php:9 frame-scaffolding.php:18
 msgid ""
-"Rent a scaffolding stair tower from the number 1 rental scaffolding provider "
-"that has achieved laurels in providing a comprehensive range of scaffolding "
-"rental."
+"Labor-Saving Framing Scaffold Rentals for Construction and Remodeling | "
+"Miami Scaffold Rental"
+msgstr ""
+"Ahorra en Mano de Obra en Construcción y Remodelación con nuestros andamios "
+"| Miami Scaffold Rental"
+
+#: frame-scaffolding.php:10 frame-scaffolding.php:21
+msgid ""
+"Looking for labor-saving solutions for your construction projects? Our "
+"framing scaffold rentals offer quick and efficient setup, helping you beat "
+"project deadlines and speed up construction. Contact Miami Scaffold Rental "
+"for professional scaffolding services."
+msgstr ""
+"¿Estás buscando soluciones que ahorren mano de obra para tus proyectos de "
+"construcción? Nuestros alquileres de andamios para estructuras ofrecen una "
+"configuración rápida y eficiente, lo que te ayuda a cumplir con los plazos "
+"del proyecto y acelerar la construcción. Contacta a Miami Scaffold Rental "
+"para obtener servicios profesionales de andamiaje."
+
+#: frame-scaffolding.php:36
+msgid ""
+"Labor-Saving <span class=\"is_blue\">Framing Scaffold</span> Rentals for "
+"Construction and Remodeling"
 msgstr ""
 
-#: frame-scaffolding.php:30 index-services.php:30 index.php:40 ladders.php:41
-msgid "Frame Scaffolding"
-msgstr ""
-
-#: frame-scaffolding.php:33
+#: frame-scaffolding.php:39
 msgid ""
 "Our scaffolding framing solutions eradicates problems that arise such as "
 "limited access to the areas or obstacles come across at the job site. "
@@ -227,13 +329,13 @@ msgid ""
 "construction."
 msgstr ""
 
-#: frame-scaffolding.php:36 index-services.php:7
+#: frame-scaffolding.php:42 index-services.php:7
 msgid ""
 "We maintain a full line of scaffold equipment and accessories to meet all "
 "your access needs. Our extensive inventory includes:"
 msgstr ""
 
-#: frame-scaffolding.php:38
+#: frame-scaffolding.php:44
 msgid ""
 "\n"
 "            <li>Heavy Duty Scaffolds</li>\n"
@@ -249,47 +351,48 @@ msgid ""
 "            "
 msgstr ""
 
-#: hoist-repair-services.php:9
+#: hoist-repair-services.php:9 hoist-repair-services.php:16
 msgid "Hoist Repair Services | Get back on the job as soon as possible"
 msgstr ""
 
-#: hoist-repair-services.php:11
+#: hoist-repair-services.php:11 hoist-repair-services.php:19
 msgid ""
 "On-call, scheduled and in-house hoist repair services.  We are certified to "
 "repair, and offer warranty, on most commercial brands"
 msgstr ""
 
-#: hoist-repair-services.php:28
+#: hoist-repair-services.php:34
 msgid "Hoist Repair Services"
 msgstr ""
 
-#: hoist-repair-services.php:31
+#: hoist-repair-services.php:37
 msgid ""
 "Miami Scaffold Rental offers highly-trained technicians to help diagnose and "
 "repair your hoist. We offer on-call, scheduled and in-house hoist repair "
 "services. Also, emergency repairs when needed. Our goal is to get you back "
 "on the job, and running, as soon as possible. We are certified to repair, "
 "and offer warranty, on most commercial brands, including <a href=\"https://"
-"www.bisoh.co.jp/en/\" target=\"_blank\">BISOMAC</a>, <a href=\"http://"
-"powerclimber.com/\" target=\"_blank\">Power Climber</a> and <a "
-"href=\"https://skyclimber.com/\" target=\"_blank\">Sky Climber</a>. We work "
-"only with OEM parts which helps ensure that you are getting the right part "
-"for your hoist. Our warranty repair center is in Medley, FL."
+"www.bisoh.co.jp/en/\" target=\"_blank\" rel=\"noopener noreferrer\">BISOMAC</"
+"a>, <a href=\"http://powerclimber.com/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Power Climber</a> and <a href=\"https://skyclimber.com/\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Sky Climber</a>. We work only "
+"with OEM parts which helps ensure that you are getting the right part for "
+"your hoist. Our warranty repair center is in Medley, FL."
 msgstr ""
 
-#: hoist-repair-services.php:32
+#: hoist-repair-services.php:38
 msgid "Call us at "
 msgstr ""
 
-#: hoist-repair-services.php:32
+#: hoist-repair-services.php:38
 msgid " to schedule a repair."
 msgstr ""
 
-#: hoist-repair-services.php:37
+#: hoist-repair-services.php:43
 msgid "Key services we offer include:"
 msgstr ""
 
-#: hoist-repair-services.php:39
+#: hoist-repair-services.php:45
 msgid ""
 "\n"
 "                <li>Service center run by hoist professionals</li>\n"
@@ -313,7 +416,7 @@ msgstr ""
 msgid "Our Services"
 msgstr ""
 
-#: index-services.php:19 index.php:39 ladders.php:42
+#: index-services.php:19 index.php:48 ladders.php:42
 msgid "System Scaffold"
 msgstr ""
 
@@ -321,11 +424,15 @@ msgstr ""
 msgid "Quick and easy"
 msgstr ""
 
+#: index-services.php:30 index.php:49 ladders.php:41
+msgid "Frame Scaffolding"
+msgstr ""
+
 #: index-services.php:31
 msgid "All your access needs"
 msgstr ""
 
-#: index-services.php:41 index.php:41 ladders.php:43
+#: index-services.php:41 index.php:50 ladders.php:43
 msgid "Baker Scaffolding"
 msgstr ""
 
@@ -333,7 +440,7 @@ msgstr ""
 msgid "Safety and ease of use"
 msgstr ""
 
-#: index-services.php:52 index.php:42 ladders.php:44
+#: index-services.php:52 index.php:51 ladders.php:44
 msgid "Suspended Scaffold"
 msgstr ""
 
@@ -341,7 +448,7 @@ msgstr ""
 msgid "High-rise exterior access"
 msgstr ""
 
-#: index-services.php:63 index.php:43
+#: index-services.php:63 index.php:52
 msgid "Shoring"
 msgstr ""
 
@@ -349,7 +456,7 @@ msgstr ""
 msgid "Support structures"
 msgstr ""
 
-#: index-services.php:74 index.php:44 ladders.php:45 scissor-lift.php:29
+#: index-services.php:74 index.php:53 ladders.php:45
 msgid "Scissor Lift"
 msgstr ""
 
@@ -357,18 +464,25 @@ msgstr ""
 msgid "Overhead access"
 msgstr ""
 
+#: index-services.php:85 index.php:54 ladders.php:46
+msgid "Boom Lift"
+msgstr ""
+
 #: index-services.php:86
 msgid "Up-and-over positioning"
 msgstr ""
 
 #: index.php:9
-msgid "Miami Scaffolding Rental Service| Planning your New Project?"
+msgid ""
+"Certified Scaffold Rentals in Miami: Access Solutions, Platforms & More for "
+"Your Construction"
 msgstr ""
 
 #: index.php:11
 msgid ""
-"We are a fast growing, independent, scaffolding Rental Company in the city "
-"of Miami. Delivering top quality equipment with strong customer service."
+"Enhance productivity on your job site with our wide range of scaffold rental "
+"options. Experience top-quality access solutions, platforms, and more, "
+"complemented by dedicated customer service."
 msgstr ""
 
 #: index.php:12
@@ -385,57 +499,57 @@ msgstr ""
 msgid "https://es.miamiscaffoldrental.com"
 msgstr ""
 
-#: index.php:37
+#: index.php:46
 msgid "Rental"
 msgstr ""
 
-#: index.php:48
+#: index.php:57 thank-you.php:107
 msgid "About Us"
 msgstr ""
 
-#: index.php:49
+#: index.php:58
 msgid "Hoist Repair"
 msgstr ""
 
-#: index.php:50
+#: index.php:59
 msgid "Contact"
 msgstr ""
 
-#: index.php:51
+#: index.php:62
 msgid "Call Us"
 msgstr ""
 
-#: index.php:63
-msgid "Fast Growing. Independent.<br>Scaffolding Rental Company"
+#: index.php:74
+msgid "Enhance efficiency and safety with our comprehensive scaffold solutions"
 msgstr ""
 
-#: index.php:64
+#: index.php:75
 msgid "Serving Miami-Dade, Broward<br>and Palm Beach counties."
 msgstr ""
 
-#: index.php:77
+#: index.php:88
 msgid "Need highly-trained technicians to help diagnose and repair your hoist?"
 msgstr ""
 
-#: index.php:80
+#: index.php:91
 msgid ""
 "We offer on-call, scheduled and in-house hoist repair services. Also, "
 "emergency repairs when needed"
 msgstr ""
 
-#: index.php:82
-msgid "Learn more"
+#: index.php:93
+msgid "Specialized Hoist Repair Services"
 msgstr ""
 
-#: index.php:100
+#: index.php:111
 msgid "ABOUT US"
 msgstr ""
 
-#: index.php:101
+#: index.php:112
 msgid "Locally Owned and Operated"
 msgstr ""
 
-#: index.php:102
+#: index.php:113
 msgid ""
 "We are a fast growing, independent, scaffolding rental company in the city "
 "of Miami. Delivering top quality equipment with strong customer service. "
@@ -445,7 +559,7 @@ msgid ""
 "our knowledgeable staff consistently delivers."
 msgstr ""
 
-#: index.php:103
+#: index.php:114
 msgid ""
 "We also offer delivery/pickup service to your home or job site, usually the "
 "same day. And with an advance reservation we can do even better. If you are "
@@ -453,15 +567,15 @@ msgid ""
 "to serving you in the Miami-Dade, Broward and Palm Beach counties."
 msgstr ""
 
-#: index.php:104
+#: index.php:115
 msgid "All our products meet OSHA and ANSI requirements."
 msgstr ""
 
-#: index.php:116
+#: index.php:127
 msgid "WHAT PEOPLE SAY ABOUT US?"
 msgstr ""
 
-#: index.php:129
+#: index.php:140
 msgid "Leave us a review"
 msgstr ""
 
@@ -480,25 +594,25 @@ msgid ""
 "combinations. From step ladders to 50’ ladder extensions."
 msgstr ""
 
-#: ladders.php:39
+#: ladders.php:39 thank-you.php:108
 msgid "Services"
 msgstr ""
 
-#: post-shoring.php:9
+#: post-shoring.php:9 post-shoring.php:18
 msgid "Shoring Post| Post Shoring - Free Rental Quote"
 msgstr ""
 
-#: post-shoring.php:11
+#: post-shoring.php:11 post-shoring.php:21
 msgid ""
 "Shoring post is used to temporarily support beams or floors in a building.We "
 "offer a comprehensive line of shoring rental equipment."
 msgstr ""
 
-#: post-shoring.php:30
+#: post-shoring.php:36
 msgid "Post Shores"
 msgstr ""
 
-#: post-shoring.php:33
+#: post-shoring.php:39
 msgid ""
 "Post shores require minimal maintenance that can be converted to shoring "
 "frames if required. They are durable, reduce labor expense and help you in "
@@ -513,7 +627,7 @@ msgid ""
 "or repairing the post shores."
 msgstr ""
 
-#: post-shoring.php:36
+#: post-shoring.php:42
 msgid ""
 "No need of repair, wear and tear happens to trench boxes and slide rail "
 "systems. This also comes in our part. We repair wear and tear in our "
@@ -521,24 +635,33 @@ msgid ""
 "have the exact equipment needed for specific job you were looking for."
 msgstr ""
 
-#: post-shoring.php:37
+#: post-shoring.php:43
 msgid ""
 "We offer a quick, easy and safe way to support structures. With wide range "
 "of heights (5’ to 16’) and load capacities up to 8,000 Lbs per unit, our "
 "post shores are a great solution for a wire range of applications."
 msgstr ""
 
-#: scissor-lift.php:9
-msgid "Scissor Lift on Hire | Electric Lift Save Your Time and Money"
-msgstr ""
-
-#: scissor-lift.php:11
+#: scissor-lift.php:9 scissor-lift.php:17
 msgid ""
-"Rent a scissor lift today. Call us now. All makes and models available. "
-"Choose from various types of scissors liftavailable for rent now."
+"Reliable Scissor Lift Rentals: Safe and Convenient Vertical Transportation | "
+"Miami Scaffold Rental"
 msgstr ""
 
-#: scissor-lift.php:32
+#: scissor-lift.php:11 scissor-lift.php:20
+msgid ""
+"Looking for versatile vertical access solutions? Our scissor lift rentals "
+"offer efficient and flexible options for construction projects. Contact "
+"Miami Scaffold Rental for reliable and convenient vertical transportation."
+msgstr ""
+
+#: scissor-lift.php:35
+msgid ""
+"Reliable <span class=\"is_blue\">Scissor Lift</span> Rentals: Safe and "
+"Convenient Vertical Transportation"
+msgstr ""
+
+#: scissor-lift.php:38
 msgid ""
 "A scissor lift serves as the best solution to transport diverse material. "
 "Electric scissor lift can be used for both indoor and outdoor work whereas "
@@ -548,7 +671,7 @@ msgid ""
 "a straight vertical elevation that is simple to use."
 msgstr ""
 
-#: scissor-lift.php:33
+#: scissor-lift.php:39
 msgid ""
 "With the help of scissor lift rental, a worker can move vertically to "
 "various locations in a variety of industries. Scissor lift caters to "
@@ -558,7 +681,7 @@ msgid ""
 "energy to complete their operational tasks."
 msgstr ""
 
-#: scissor-lift.php:36
+#: scissor-lift.php:42
 msgid ""
 "Scissors lift as of its compact design gives you an excellent solution even "
 "if you have a limited space and a height to work on. Different scissors lift "
@@ -567,7 +690,7 @@ msgid ""
 "use it for a wide range of different work."
 msgstr ""
 
-#: scissor-lift.php:37
+#: scissor-lift.php:43
 msgid ""
 "Lifts are used when a job requires access to an area directly overhead, to "
 "elevate workers and materials from relatively short heights of 10-20 feet to "
@@ -591,4 +714,139 @@ msgstr ""
 
 #: service_form.php:31
 msgid "Comments/Questions"
+msgstr ""
+
+#: suspended-scaffold.php:9 suspended-scaffold.php:18
+msgid ""
+"Safe and Durable Suspended Scaffold Rentals for High-Rise Projects | Miami "
+"Scaffold Rental"
+msgstr ""
+
+#: suspended-scaffold.php:11 suspended-scaffold.php:21
+msgid ""
+"Maximize your construction operations with our efficient suspended scaffold "
+"rentals. Whether it's repair, maintenance, or painting on high-rise "
+"buildings, these scaffolds offer durability and accessibility. Contact Miami "
+"Scaffold Rental for reliable access solutions."
+msgstr ""
+
+#: suspended-scaffold.php:36
+msgid ""
+"Safe and Durable <span class=\"is_blue\">Suspended Scaffold</span> Rentals "
+"for High-Rise Projects"
+msgstr ""
+
+#: suspended-scaffold.php:39
+msgid ""
+"Suspended scaffold is also known as swing-stage scaffold, that play an "
+"outstanding role in elevated construction. Suspended scaffold provides "
+"access and working platform for construction, inspection; repair or "
+"maintenance. It can be raised or lowered when required. Usually, there are "
+"two-point adjustable suspension scaffolds that window washers use on "
+"skyscrapers."
+msgstr ""
+
+#: suspended-scaffold.php:40
+msgid ""
+"Suspended scaffold comes in a variety of models that enables workers or "
+"engineers to work on heights. A few examples where suspended scaffolding "
+"comes in use: Repair or window clean, refurbishing or decorating, concrete "
+"restoration and painting on buildings, etc. It consists of three main "
+"elements: a platform to work, a supporting frame and a suspension system."
+msgstr ""
+
+#: suspended-scaffold.php:43
+msgid ""
+"Suspended scaffold is durable and lightweight as their bearing parts are "
+"made up of hot-dipped GI and components with an anti-corrosive powder "
+"coating that makes the scaffolding system to withstand unfavorable weather "
+"condition. It is made up of aluminum that has a low density and it resists "
+"corrosion. It is very adaptable as you can adjust the working height "
+"according to your preference. You can easily access facades and walls. "
+"Suspended scaffolding is versatile; it can be used for a variety of projects."
+msgstr ""
+
+#: suspended-scaffold.php:44
+msgid ""
+"The perfect solution. for high-rise exterior access. Supported by cables "
+"connected to stirrups at each end of the platform. They are additionally "
+"equipped with an electrical motor to permit the platform to be raised and "
+"lowered as needed. Best used by facade restoration companies on high-rise "
+"buildings these platforms are integral to moving personnel and building "
+"materials for construction as well."
+msgstr ""
+
+#: system-scaffold.php:9 system-scaffold.php:18
+msgid ""
+"Quick and Easy System Scaffold Rentals for Versatile Construction Projects | "
+"Miami Scaffold Rental"
+msgstr ""
+
+#: system-scaffold.php:10
+msgid ""
+"Maximize your construction efficiency with our system scaffold rentals. From "
+"fast setup to better aesthetics and superior capabilities, our modular "
+"scaffolding is perfect for a wide range of projects. Contact Miami Scaffold "
+"Rental for reliable solutions."
+msgstr ""
+
+#: system-scaffold.php:21
+msgid ""
+"Rent a scaffolding stair tower from the number 1 rental scaffolding provider "
+"that has achieved laurels in providing a comprehensive range of scaffolding "
+"rental.Maximize your construction efficiency with our system scaffold "
+"rentals. From fast setup to better aesthetics and superior capabilities, our "
+"modular scaffolding is perfect for a wide range of projects. Contact Miami "
+"Scaffold Rental for reliable solutions."
+msgstr ""
+
+#: system-scaffold.php:36
+msgid ""
+"Quick and Easy <span class=\"is_blue\">System Scaffold</span> Rentals for "
+"Versatile Construction Projects"
+msgstr ""
+
+#: system-scaffold.php:39
+msgid ""
+"The system scaffolding is quick and easy to erect, and provides a superior "
+"working platform compared to traditional scaffolding. I also provides a "
+"better aesthetic finish."
+msgstr ""
+
+#: system-scaffold.php:40
+msgid ""
+"A system scaffolding structure is essentially a frame structure that has "
+"evolved from the general principles of tube and fitting scaffolding, but "
+"utilizes a specialized modular connection. The major difference between tube "
+"and fitting and system scaffolds is the connection between the uprights (or "
+"“standards”), the horizontal members (or “transoms and ledgers”), and the "
+"diagonal members (or “braces”)."
+msgstr ""
+
+#: system-scaffold.php:43
+msgid ""
+"The connection between the various members normally consists a specially "
+"designed mouth piece at the ends of the horizontal and diagonal tube members "
+"and a rosette device at regular spacing up the standard, or other similar "
+"modular connection"
+msgstr ""
+
+#: system-scaffold.php:44
+msgid ""
+"The main advantage of system scaffolds over traditional tube and fitting "
+"scaffolds is that the erection speed is greatly increased; it’s not unusual "
+"for a system scaffold structure to be put up in a quarter of the time of a "
+"similar size traditional tube and fitting scaffold structure."
+msgstr ""
+
+#: thank-you.php:89
+msgid "Miami Scaffold Rental"
+msgstr ""
+
+#: thank-you.php:101
+msgid "Menu"
+msgstr ""
+
+#: thank-you.php:106
+msgid "Home"
 msgstr ""

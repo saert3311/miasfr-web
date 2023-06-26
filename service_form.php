@@ -39,31 +39,3 @@
         </div>
       </div>
     </section>
-<script src="https://www.google.com/recaptcha/api.js?render=6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE"></script>
-<script>
-document.getElementById('contact-miasfr').addEventListener('submit', function(event) {
-  event.preventDefault();
-  
-  grecaptcha.ready(function() {
-    grecaptcha.execute('6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE', { action: 'contact_form' })
-      .then(function(token) {
-        var form = document.getElementById('contact-miasfr');
-        
-        var tokenInput = document.createElement('input');
-        tokenInput.setAttribute('type', 'hidden');
-        tokenInput.setAttribute('name', 'token');
-        tokenInput.setAttribute('value', token);
-        form.insertBefore(tokenInput, form.firstChild);
-        
-        var actionInput = document.createElement('input');
-        actionInput.setAttribute('type', 'hidden');
-        actionInput.setAttribute('name', 'action');
-        actionInput.setAttribute('value', 'contact_form');
-        form.insertBefore(actionInput, form.firstChild);
-        
-        form.removeEventListener('submit', arguments.callee);
-        form.submit();
-      });
-  });
-});
-</script>
