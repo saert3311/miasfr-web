@@ -6,7 +6,7 @@ $dotenv->load();
 use \DrewM\MailChimp\MailChimp;
 $token = $_POST['token'];
 $action = $_POST['action'];
-$idempotencyKey = bin2hex(random_bytes(16));
+
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL,"https://www.google.com/recaptcha/api/siteverify");
 curl_setopt($ch, CURLOPT_POST, 1);

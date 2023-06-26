@@ -10,7 +10,6 @@
           <div class="col-12 col-md-8">
             <div class="cold-flex">
                 <form action="thank-you" method="post" class="contact-form" id="contact-miasfr">
-                <div class="cf-turnstile" data-sitekey="0x4AAAAAAAGk3s1j51WOybkd"></div>
                   <div class="row">
                     <div class="col-sm-4">
                       <div class="form-group">
@@ -40,3 +39,30 @@
         </div>
       </div>
     </section>
+<script>
+document.getElementById('contact-miasfr').addEventListener('submit', function(event) {
+  event.preventDefault();
+  
+  grecaptcha.ready(function() {
+    grecaptcha.execute('6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE', { action: 'contact_form' })
+      .then(function(token) {
+        var form = document.getElementById('contact-miasfr');
+        
+        var tokenInput = document.createElement('input');
+        tokenInput.setAttribute('type', 'hidden');
+        tokenInput.setAttribute('name', 'token');
+        tokenInput.setAttribute('value', token);
+        form.insertBefore(tokenInput, form.firstChild);
+        
+        var actionInput = document.createElement('input');
+        actionInput.setAttribute('type', 'hidden');
+        actionInput.setAttribute('name', 'action');
+        actionInput.setAttribute('value', 'contact_form');
+        form.insertBefore(actionInput, form.firstChild);
+        
+        form.removeEventListener('submit', arguments.callee);
+        form.submit();
+      });
+  });
+});
+</script>
