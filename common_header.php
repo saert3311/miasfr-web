@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="css/owl.theme.default.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 	<link rel="stylesheet" href="css/cookiealert.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 	<script src="js/modernizr.js" type="text/javascript"></script>
+	<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
