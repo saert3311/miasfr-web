@@ -10,6 +10,7 @@
           <div class="col-12 col-md-8">
             <div class="cold-flex">
                 <form action="thank-you" method="post" class="contact-form" id="contact-miasfr">
+                <div class="cf-turnstile" data-sitekey="0x4AAAAAAAGk3s1j51WOybkd"></div>
                   <div class="row">
                     <div class="col-sm-4">
                       <div class="form-group">
