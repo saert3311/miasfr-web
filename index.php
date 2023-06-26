@@ -21,6 +21,9 @@
   <meta property="og:description" content="Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.">
   <meta property="og:type" content="business.business">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
+  <script>
+    
+  </script>
 </head>
 
 <body>

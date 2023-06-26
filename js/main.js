@@ -153,6 +153,7 @@
 		$('.carousel-project').owlCarousel({
 			autoplay: false,
 			autoHeight: true,
+			lazyLoad: true,
 			center: false,
 			loop: true,
 			items:1,
