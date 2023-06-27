@@ -6,19 +6,19 @@
 <html lang="<?php echo $language ?>">
 
 <head>
-  <title><?php echo ___('Shoring Post| Post Shoring - Free Rental Quote') ?></title>
+  <title><?php echo ___('Durable and Lightweight Post Shore Rentals for Efficient Shoring Solutions | Miami Scaffold Rental') ?></title>
   <meta charset="utf-8">
-  <meta name="description" content="<?php echo ___('Shoring post is used to temporarily support beams or floors in a building.We offer a comprehensive line of shoring rental equipment.') ?>">
+  <meta name="description" content="<?php echo ___('Ensure efficient shoring solutions with our durable and lightweight post shore rentals. With adjustable heights and high load capacities, they offer a safe and convenient way to support structures. Contact Miami Scaffold Rental for quick and reliable support equipment') ?>">
   <meta name="Keywords" content="post shores, shoring jacks, shoring post, shoring post rental">
   <link rel="canonical" href="https://miamiscaffoldrental.com/post-shoring" />
   <link rel="alternate" hreflang="es" href="https://es.miamiscaffoldrental.com/post-shoring" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <?php require 'common_header.php' ?>
   <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
-  <meta property="og:title" content="<?php echo ___('Shoring Post| Post Shoring - Free Rental Quote') ?>">
+  <meta property="og:title" content="<?php echo ___('Durable and Lightweight Post Shore Rentals for Efficient Shoring Solutions | Miami Scaffold Rental') ?>">
   <meta property="og:site_name" content="Miami Scaffold Rental">
   <meta property="og:url" content="https://miamiscaffoldrental.com/post-shoring"/>
-  <meta property="og:description" content="<?php echo ___('Shoring post is used to temporarily support beams or floors in a building.We offer a comprehensive line of shoring rental equipment.') ?>">
+  <meta property="og:description" content="<?php echo ___('Ensure efficient shoring solutions with our durable and lightweight post shore rentals. With adjustable heights and high load capacities, they offer a safe and convenient way to support structures. Contact Miami Scaffold Rental for quick and reliable support equipment') ?>">
   <meta property="og:type" content="product">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
 </head>
@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4"><?php echo ___('Post Shores') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Durable and Lightweight <span="is_blue">Post Shore</span> Rentals for Efficient Shoring Solutions | Miami Scaffold Rental') ?></h1>
       <div class="row mb-3">
         <div class="col-md-6 ">
           <p><?php echo ___('Post shores require minimal maintenance that can be converted to shoring frames if required. They are durable, reduce labor expense and help you in finishing up the job on time. Post shoring is more efficient as of its lightweight. Single men can handle, assemble and dismantle it providing a streamlined operation. Post shores scale down your inventory more as they are backed with demountable ledgers that can be easily converted to frames. Each post shore accepts bolts with three different heads that are equipped with a full-length vertical t-bolt slot on all the slides. This saves your time and money. Shoring post enables you to conserve capital for other projects and opportunities as no need for capital to be invested in buying or repairing the post shores.') ?></p>
