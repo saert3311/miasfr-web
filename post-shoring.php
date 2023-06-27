@@ -33,7 +33,7 @@
   </section>
   <section class="ftco-section">
     <div class="container">
-      <h1 class="mb-4 service-title"><?php echo ___('Durable and Lightweight <span="is_blue">Post Shore</span> Rentals for Efficient Shoring Solutions | Miami Scaffold Rental') ?></h1>
+      <h1 class="mb-4 service-title"><?php echo ___('Durable and Lightweight <span class="is_blue">Post Shore</span> Rentals for Efficient Shoring Solutions') ?></h1>
       <div class="row mb-3">
         <div class="col-md-6 ">
           <p><?php echo ___('Post shores require minimal maintenance that can be converted to shoring frames if required. They are durable, reduce labor expense and help you in finishing up the job on time. Post shoring is more efficient as of its lightweight. Single men can handle, assemble and dismantle it providing a streamlined operation. Post shores scale down your inventory more as they are backed with demountable ledgers that can be easily converted to frames. Each post shore accepts bolts with three different heads that are equipped with a full-length vertical t-bolt slot on all the slides. This saves your time and money. Shoring post enables you to conserve capital for other projects and opportunities as no need for capital to be invested in buying or repairing the post shores.') ?></p>
