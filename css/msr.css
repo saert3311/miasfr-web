@@ -3312,7 +3312,7 @@ body {
       left: 1rem;
       top: 1rem;
       z-index: 2;}
-  .mobile-call button {border-radius: 50%;padding:0.8rem 1rem 0.4rem}
+  .mobile-call button {border-radius: 50%;padding:0.8rem}
   .mobile-call span {font-size:2rem}
   @media (min-width: 992px) {
     .mobile-call{display: none}
