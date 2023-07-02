@@ -212,8 +212,6 @@ body {
           margin-left: 0 !important; } }
       .ftco-navbar-light.scrolled .navbar-toggler {
         border: none;
-        color: rgba(0, 0, 0, 0.5) !important;
-        border-color: rgba(0, 0, 0, 0.5) !important;
         cursor: pointer;
         text-transform: uppercase;
         font-size: 16px;
@@ -3312,7 +3310,7 @@ body {
       left: 1rem;
       top: 1rem;
       z-index: 2;}
-  .mobile-call button {border-radius: 50%;padding:0.8rem}
+  .mobile-call button {border-radius: 50%;padding:0.8rem 0.6rem 0.8rem 0.8rem}
   .mobile-call span {font-size:2rem}
   @media (min-width: 992px) {
     .mobile-call{display: none}
@@ -3379,4 +3377,8 @@ body {
 }
 .is_blue{
   color: var(--primary)
+}
+
+.navbar-toggler{
+  padding:0.4rem!important
 }
