@@ -29,6 +29,10 @@
                   </div>
                   <div class="form-group mb-3">
                     <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="<?php echo ___('Comments/Questions') ?>" required></textarea>
+                    <small>This site is protected by reCAPTCHA and the Google 
+    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a> and
+    <a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer nofollow">Terms of Service</a> apply.
+</small>
                   </div>
                   <div class="form-group d-flex justify-content-end mb-0">
                     <input type="submit" value="<?php echo ___('Send Message') ?>" class="btn btn-secondary py-3 px-5">
