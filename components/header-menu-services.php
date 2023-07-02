@@ -5,8 +5,8 @@
                 <source media="(max-width:576px), (pointer:coarse) and (min-width:640px)" srcset="images/msr_mobile_w.webp"><img alt="Miami Scaffolding Rental Service" class="erlogo" src="images/msr_logo_w.webp">
             </picture>
         </a>
-        <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="oi oi-menu"></span> Menu
+        <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle btn btn-primary" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
         </button>
 
         <div class="collapse navbar-collapse" id="ftco-nav">
