@@ -3382,3 +3382,7 @@ body {
 .navbar-toggler{
   padding:0.4rem!important
 }
+
+.grecaptcha-badge { 
+  visibility: hidden;
+}
