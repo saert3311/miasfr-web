@@ -162,7 +162,7 @@
 			nav: true,
 			dots: false,
 			mouseDrag: false,
-			navText: ['<img src="images/chevron-left.svg">', '<img src="images/chevron-right.svg">'],
+			navText: ['<img src="images/chevron-left.svg" alt="Previous">', '<img src="images/chevron-right.svg" alt="Next">'],
 			responsive:{
 				0:{
 					items: 1

@@ -53,7 +53,7 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/jquery.animateNumber.min.js"></script>
-    <script src="js/main.js"></script>
+    <?php echo '<script src="js/main.js?' . filemtime('js/main.js') . '"><script/>'; ?>
     <script src="js/cookiealert.js"></script>
     <script>
       $(window).scroll(function() {
