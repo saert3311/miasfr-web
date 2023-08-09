@@ -38,7 +38,7 @@
       </svg></div>
 
     <div class="alert text-center cookiealert" role="alert">
-      <b>🍪 Craving knowledge about our cookies?</b> Dive into our Cookie Policy! <a href="cookies" target="_blank" class="external">Learn more</a>
+      <b>🍪 Craving knowledge about our cookies?</b> Dive into our <a href="cookies" target="_blank" class="external">Cookie Policy</a>
 
       <button type="button" class="btn btn-primary btn-sm acceptcookies">
         I agree
