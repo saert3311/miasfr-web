@@ -47,12 +47,12 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/aos.js"></script>
-    <script src="js/jquery.animateNumber.min.js"></script>
+    <script defer  src="js/jquery.waypoints.min.js"></script>
+    <script defer  src="js/jquery.stellar.min.js"></script>
+    <script defer  src="js/owl.carousel.min.js"></script>
+    <script defer  src="js/jquery.magnific-popup.min.js"></script>
+    <script defer  src="js/aos.js"></script>
+    <script defer  src="js/jquery.animateNumber.min.js"></script>
     <?php echo '<script src="js/main.js?' . filemtime('js/main.js') . '"></script>'; ?>
     <script src="js/cookiealert.js"></script>
     <script>

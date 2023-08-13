@@ -43,7 +43,7 @@
         </div>
       </div>
     </section>
-<script src="https://www.google.com/recaptcha/api.js?render=6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE"></script>
+<script defer src="https://www.google.com/recaptcha/api.js?render=6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE"></script>
 <script>
 document.getElementById('contact-miasfr').addEventListener('submit', function(event) {
   event.preventDefault();

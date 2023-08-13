@@ -1,4 +1,6 @@
 <?php
+header("Location: https://miamiscaffoldrental.com",TRUE,301);
+die();
   // Translator loader
   require 'languages.php'
   ?>
