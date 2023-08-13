@@ -9,7 +9,7 @@
           </div>
           <div class="col-12 col-md-6 my-2">
             <div class="ftco-footer-widget d-flex flex-column justify-content-end">
-              <a href="https://g.page/miamiscaffoldrental" target="_blank" rel="noopener noreferrer" class="px-3 text-center text-sm-right">
+              <a href="https://g.page/miamiscaffoldrental" target="_blank" rel="noopener noreferrer nofollow" class="px-3 text-center text-sm-right">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
               <span class="text pl-1" id="footer-address">9955 NW 116th Way, Ste. 8 Medley, FL 33178</span></a>
               <a href="tel:+13055308090" class="px-3 text-center text-sm-right">
