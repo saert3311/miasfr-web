@@ -14,6 +14,7 @@
                     <div class="col-sm-4">
                       <div class="form-group">
                         <input type="text" class="form-control" placeholder="<?php echo ___('Your name') ?>" name="fname" required>
+                        <input type="text" name="middlename" id="middlename-hp" class="harrypotter" autocomplete="off" placeholder="Your name here">
                       </div>
                     </div>
                     <div class="col-sm-4">
@@ -29,10 +30,7 @@
                   </div>
                   <div class="form-group mb-3">
                     <textarea name="comment" id="" cols="30" rows="2" class="form-control" placeholder="<?php echo ___('Comments/Questions') ?>" required></textarea>
-                    <small>This site is protected by reCAPTCHA and the Google 
-    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a> and
-    <a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer nofollow">Terms of Service</a> apply.
-</small>
+                    <input type="checkbox" name="terms" id="terms-hp" class="harrypotter" autocomplete="off" placeholder="Accept Terms">
                   </div>
                   <div class="form-group d-flex justify-content-end mb-0">
                     <input type="submit" value="<?php echo ___('Send Message') ?>" class="btn btn-secondary py-3 px-5">
@@ -43,31 +41,3 @@
         </div>
       </div>
     </section>
-<script defer src="https://www.google.com/recaptcha/api.js?render=6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE"></script>
-<script>
-document.getElementById('contact-miasfr').addEventListener('submit', function(event) {
-  event.preventDefault();
-  
-  grecaptcha.ready(function() {
-    grecaptcha.execute('6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE', { action: 'contact_form' })
-      .then(function(token) {
-        var form = document.getElementById('contact-miasfr');
-        
-        var tokenInput = document.createElement('input');
-        tokenInput.setAttribute('type', 'hidden');
-        tokenInput.setAttribute('name', 'token');
-        tokenInput.setAttribute('value', token);
-        form.insertBefore(tokenInput, form.firstChild);
-        
-        var actionInput = document.createElement('input');
-        actionInput.setAttribute('type', 'hidden');
-        actionInput.setAttribute('name', 'action');
-        actionInput.setAttribute('value', 'contact_form');
-        form.insertBefore(actionInput, form.firstChild);
-        
-        form.removeEventListener('submit', arguments.callee);
-        form.submit();
-      });
-  });
-});
-</script>

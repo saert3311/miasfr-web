@@ -42,6 +42,7 @@
             <form action="thank-you" method="post" class="bg-light p-lg-5 contact-form" id="contact-miasfr">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="<?php echo ___('First Name') ?>" name="fname" required>
+                <input type="text" name="middlename" id="middlename-hp" class="harrypotter" autocomplete="off" placeholder="Your name here">
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="<?php echo ___('Last Name') ?>" name="lname" required>
@@ -65,13 +66,10 @@
 									<option value="Google Search"><?php echo ___('Google Search') ?></option>
 								    <option value="Printed Ad"><?php echo ___('Printed Ad') ?></option>
 								</select>
+                <input type="checkbox" name="terms" id="terms-hp" class="harrypotter" autocomplete="off" placeholder="Accept Terms">
 							</div>
               <div class="form-group mb-3">
                 <textarea name="comment" id="" cols="30" rows="7" class="form-control" placeholder="Comments/Questions" required></textarea>
-				<small>This site is protected by reCAPTCHA and the Google 
-    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a> and
-    <a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer nofollow">Terms of Service</a> apply.
-</small>
 							</div>
 							<div class="form-check mb-3">
 									<input class="form-check-input" type="checkbox" value="yes" id="defaultCheck1" name="subscribe">
@@ -134,18 +132,5 @@
       </div>
     </section>
     <?php require 'common_footer.php' ?>
-	<script src="https://www.google.com/recaptcha/api.js?render=6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE"></script>
-	<script>
-			$('#contact-miasfr').submit(function( event ) {
-			event.preventDefault();
-			grecaptcha.ready(function() {
-				grecaptcha.execute('6Lc_RcQcAAAAADggGqGrJ-kidbEoYQUQZbWPKToE', {action: 'contact_form'}).then(function(token) {
-					$('#contact-miasfr').prepend(`<input type="hidden" name="token" value="${token}">`);
-					$('#contact-miasfr').prepend(`<input type="hidden" name="action" value="contact_form">`);
-					$('#contact-miasfr').unbind('submit').submit();
-				})
-			})
-		})
-	</script> 
   </body>
 </html>
