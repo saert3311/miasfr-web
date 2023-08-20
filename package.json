@@ -1,0 +1,23 @@
+{
+  "name": "miasfr-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "partycopy": "partytown copylib js/~partytown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saert3311/miasfr-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saert3311/miasfr-web/issues"
+  },
+  "homepage": "https://github.com/saert3311/miasfr-web#readme",
+  "dependencies": {
+    "@builder.io/partytown": "^0.8.0"
+  }
+}
