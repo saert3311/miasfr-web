@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="css/owl.theme.default.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="stylesheet" href="css/cookiealert.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <script defer src="js/modernizr.js" type="text/javascript"></script>
-  <script src="js/~partytown/partytown.js" type="text/javascript"></script>
+  <script src="~partytown/partytown.js" type="text/javascript"></script>
   <script>
   	partytown = {
   		forward: ['dataLayer.push'],
