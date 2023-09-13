@@ -130,7 +130,7 @@
       </div>
       <div class="row d-flex">
         <div class="col-md-3 col-lg-3 d-flex .d-none .d-sm-block">
-          <img src="images/google-reviews.webp" class="img-fluid greviews" alt="Google Reviews" width="183" height="30">
+          <img src="images/google-reviews.webp" class="img-fluid greviews" alt="Google Reviews">
         </div>
         <div class="col">
           <div id="google-reviews"></div>
