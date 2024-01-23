@@ -97,8 +97,9 @@
           		<div class="icon d-flex align-items-center justify-content-center">
           			<img src="images/address_icon_2.webp" alt="Scaffolding on Rent">
           		</div>
-          		<h3 class="mb-4"><?php echo ___('Address') ?></h3>
-	            <p>9955 NW 116th Way, Suite 8<br>Medley, FL 33178</p>
+          		<h3 class="mb-4"><?php echo ___('Addresses') ?></h3>
+	            <p class="mb-3">9955 NW 116th Way, Suite 8<br>Medley, FL 33178</p>
+	            <p>4525 NW 8th Ave<br>Fort Lauderdale, FL 33309</p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex">
@@ -108,6 +109,7 @@
           		</div>
           		<h3 class="mb-4"><?php echo ___('Phone') ?></h3>
 	            <p><a href="tel:+13055308090">305-530-8090</a></p>
+	            <p><a href="tel:+19547664834">954-766-4834</a></p>
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex">
