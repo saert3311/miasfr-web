@@ -86,7 +86,7 @@
           <h1 class="mb-4"><?php echo ___('Enhance efficiency and safety with our comprehensive scaffold solutions') ?></h1>
           <p class="mb-4"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
           <div class="row">
-          <a href="tel:+13055308090" class="external">
+          <a href="tel:+13055308090" class="external ml-3">
             <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg><?php echo ___('Quote in Medley') ?></button>
           </a>
           </div>
@@ -102,7 +102,7 @@
           <h1 class="mb-4"><?php echo ___("We're Growing!") ?></h1>
           <p class="mb-4"><?php echo ___('New store opening now in Fort Lauderdale, to serve all your scaffold and high access needs. Come visit us, or call us.') ?></p>
           <div class="row">
-          <a href="tel:+19547664834" class="external ml-md-4">
+          <a href="tel:+19547664834" class="external ml-3">
             <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg><?php echo ___('Quote in Fort Lauderdale') ?></button>
           </a>
           </div>
