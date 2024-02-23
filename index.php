@@ -76,9 +76,9 @@
   </nav>
 
   <section class="hero-wrap js-fullheight" data-section="home">
-  <div id="carouselMain" class="carousel slide" data-ride="carousel">
+  <div id="carouselMain" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
@@ -94,7 +94,7 @@
       </div>
     </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item active" data-interval="8000">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
