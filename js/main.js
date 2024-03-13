@@ -362,14 +362,3 @@
 })
 
 })(jQuery);
-
-jQuery(document).ready(function() {
-$("#google-reviews").googlePlaces({
-	placeId: 'ChIJJcVv5H-72YgRPW_rgr79qXQ'
-  , render: ['reviews']
-  , min_rating: 4
-  , max_rows:3
-  , rotateTime: 5000
-  , shorten_names: false
-});
-});

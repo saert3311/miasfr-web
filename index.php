@@ -1,7 +1,7 @@
 <?php
-  // Translator loader
-  require 'languages.php'
-  ?>
+// Translator loader
+require 'languages.php'
+?>
 <!DOCTYPE html>
 <html lang="<?php echo $language ?>">
 
@@ -9,20 +9,19 @@
   <title><?php echo ___('Certified Scaffold Rentals in Miami: Access Solutions, Platforms & More for Your Construction') ?></title>
   <meta charset="utf-8">
   <meta name="description" content="<?php echo ___('Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.') ?>">
-  <meta name="Keywords" content="<?php echo ___('scaffolding rental, scaffolding rental service, scaffolding florida, shoring post rental') ?>"
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="Keywords" content="<?php echo ___('scaffolding rental, scaffolding rental service, scaffolding florida, shoring post rental') ?>" <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://miamiscaffoldrental.com” />
   <link rel="alternate" hreflang="<?php echo ___('es') ?>" href="<?php echo ___('https://es.miamiscaffoldrental.com') ?>" />
   <?php require 'common_header.php' ?>
   <link rel="stylesheet" href="css/google-places.css">
   <meta property="og:title" content="Certified Scaffold Rentals in Miami: Access Solutions, Platforms & More for Your Construction">
   <meta property="og:site_name" content="Miami Scaffold Rental">
-  <meta property="og:url" content="https://miamiscaffoldrental.com"/>
+  <meta property="og:url" content="https://miamiscaffoldrental.com" />
   <meta property="og:description" content="Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.">
   <meta property="og:type" content="business.business">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
   <script>
-    
+
   </script>
 </head>
 
@@ -36,14 +35,18 @@
         </picture>
       </a>
       <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle btn btn-primary" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
       </button>
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav nav ml-auto">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-nav-section="services">
-            <?php echo ___('Rental') ?></a>
+              <?php echo ___('Rental') ?></a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item external" href="system-scaffold"><?php echo ___('System Scaffold') ?></a>
               <a class="dropdown-item external" href="frame-scaffolding"><?php echo ___('Frame Scaffolding') ?></a>
@@ -60,7 +63,9 @@
 
           <li class="nav-item dropdown cta">
             <a href="#" class="nav-link dropdown-toggle nav-link-callus " role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;">
+                <path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+              </svg>
               </span><span><?php echo ___('Call Us') ?></span>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -76,53 +81,57 @@
   </nav>
 
   <section class="hero-wrap js-fullheight" data-section="home">
-  <div id="carouselMain" class="carousel slide carousel-fade" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
-        <div class="col-md-8 mt-5">
-          <h1 class="mb-4"><?php echo ___('Enhance efficiency and safety with our comprehensive scaffold solutions') ?></h1>
-          <p class="mb-4"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
-          <div class="row">
-          <a href="tel:+13055308090" class="external ml-3">
-            <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg><?php echo ___('Quote in Medley') ?></button>
-          </a>
+    <div id="carouselMain" class="carousel slide carousel-fade" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item">
+          <div class="overlay"></div>
+          <div class="container">
+            <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
+              <div class="col-md-8 mt-5">
+                <h1 class="mb-4"><?php echo ___('Enhance efficiency and safety with our comprehensive scaffold solutions') ?></h1>
+                <p class="mb-4"><?php echo ___('Serving Miami-Dade, Broward<br>and Palm Beach counties.') ?></p>
+                <div class="row">
+                  <a href="tel:+13055308090" class="external ml-3">
+                    <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;">
+                        <path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                      </svg><?php echo ___('Quote in Medley') ?></button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item active" data-interval="8000">
+          <div class="overlay"></div>
+          <div class="container">
+            <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
+              <div class="col-md-8 mt-5">
+                <h1 class="mb-4"><?php echo ___("We're Growing!") ?></h1>
+                <p class="mb-4"><?php echo ___('New store opening now in Fort Lauderdale, to serve all your scaffold and high access needs. Come visit us, or call us.') ?></p>
+                <div class="row">
+                  <a href="tel:+19547664834" class="external ml-3">
+                    <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;">
+                        <path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                      </svg><?php echo ___('Quote in Fort Lauderdale') ?></button>
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
+      <a class="carousel-control-prev" href="#carouselMain" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselMain" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
-    </div>
-    <div class="carousel-item active" data-interval="8000">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start">
-        <div class="col-md-8 mt-5">
-          <h1 class="mb-4"><?php echo ___("We're Growing!") ?></h1>
-          <p class="mb-4"><?php echo ___('New store opening now in Fort Lauderdale, to serve all your scaffold and high access needs. Come visit us, or call us.') ?></p>
-          <div class="row">
-          <a href="tel:+19547664834" class="external ml-3">
-            <button class="btn btn-primary btn-lg mt-1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call" style="margin-right: 5px;"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg><?php echo ___('Quote in Fort Lauderdale') ?></button>
-          </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselMain" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselMain" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
   </section>
 
-    <?php require 'index-services.php' ?>
+  <?php require 'index-services.php' ?>
 
   <section class="ftco-section">
     <div class="container p-3 boxed-content">
@@ -192,6 +201,18 @@
   </script>
   <script async src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&key=AIzaSyA3lL2cKoevidwvZiCGHaVH-eQWDfj2TM0"></script>
   <script src="js/google-places.js "></script>
+  <script>
+    jQuery(document).ready(function() {
+      $("#google-reviews").googlePlaces({
+        placeId: 'ChIJJcVv5H-72YgRPW_rgr79qXQ',
+        render: ['reviews'],
+        min_rating: 4,
+        max_rows: 3,
+        rotateTime: 5000,
+        shorten_names: false
+      });
+    });
+  </script>
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
@@ -199,7 +220,7 @@
       "name": "Miami Scaffold Rental",
       "url": "https://miamiscaffoldrental.com/",
       "telephone": "+13055308090",
-      "priceRange" : "$$",
+      "priceRange": "$$",
       "logo": "https://miamiscaffoldrental.com/images/msr_logo_bw.png",
       "image": "https://miamiscaffoldrental.com/images/banner_1.webp",
       "description": "Enhance productivity on your job site with our wide range of scaffold rental options. Experience top-quality access solutions, platforms, and more, complemented by dedicated customer service.",

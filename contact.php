@@ -19,6 +19,13 @@
   <meta property="og:description" content="<?php echo ___('Contact Miami Scaffold Rental for more details.Request a quote & get the best price.Expert scaffolding and over 40 years of experience.') ?>">
   <meta property="og:type" content="business.business">
   <meta property="og:image" content="https://miamiscaffoldrental.com/images/msr_social.webp">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+  <style>
+    #map-medley, #map-fort { height: 400px; margin-bottom: 1.5rem; }
+  </style>
   </head>
   <body>
 	  
@@ -83,8 +90,9 @@
             </form>
           
           </div>
-          <div class="col-md-6 d-flex">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1795.512081715053!2d-80.32172285897263!3d25.83574907174551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74a9fdbe82eb6f3d!2sMiami+Scaffold+Rental!5e0!3m2!1sen!2sus!4v1565059694700!5m2!1sen!2sus" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <div class="col-md-6 d-flex flex-column">
+						<div id="map-medley"></div>
+						<div id="map-fort"></div>
           </div>
         </div>
       </div>
@@ -134,5 +142,24 @@
       </div>
     </section>
     <?php require 'common_footer.php' ?>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+     <script>
+      var medley = L.map('map-medley').setView([25.8752532, -80.3609318], 15);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+      }).addTo(medley);
+      L.marker([25.8752532, -80.3609318]).addTo(medley)
+        .bindPopup('<h5>Medley</h5><a href="https://maps.app.goo.gl/LwEpgAvLteALt2DVA" target="_blank" rel="noreferrer nofollow">9955 NW 116th Way, Suite 8<br>Medley, FL 33178</a>')
+        .openPopup();
+      var fort = L.map('map-fort').setView([26.18225,-80.15363], 15);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+      }).addTo(fort);
+      L.marker([26.18225,-80.15363]).addTo(fort)
+        .bindPopup('<h5>Fort Lauderdale</h5><a href="https://maps.app.goo.gl/sussU1aovcZ7aUHC6" target="_blank" rel="noreferrer nofollow">4525 NW 8th Ave<br>Fort Lauderdale, FL 33309</a>')
+        .openPopup();
+     </script>
   </body>
 </html>
