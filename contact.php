@@ -146,14 +146,14 @@
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
      <script>
-      var medley = L.map('map-medley').setView([25.8752532, -80.3609318], 15);
+      var medley = L.map('map-medley',{scrollWheelZoom:false}).setView([25.8752532, -80.3609318], 15);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
       }).addTo(medley);
       L.marker([25.8752532, -80.3609318]).addTo(medley)
         .bindPopup('<h5>Medley</h5><a href="https://maps.app.goo.gl/LwEpgAvLteALt2DVA" target="_blank" rel="noreferrer nofollow">9955 NW 116th Way, Suite 8<br>Medley, FL 33178</a>')
         .openPopup();
-      var fort = L.map('map-fort').setView([26.18225,-80.15363], 15);
+      var fort = L.map('map-fort', {scrollWheelZoom:false}).setView([26.18225,-80.15363], 15);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
       }).addTo(fort);
