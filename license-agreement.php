@@ -48,17 +48,18 @@
 
     <h2>1. Grant of License</h2>
 
-    <p>Licensor grants to Licensee a non-exclusive, non-transferable, limited license to use the [App Name] software application (the "Software") for the sole purpose of migrating data from Intuit QuickBooks to Odoo CRM. Licensee agrees to use the Software only in accordance with the terms of this Agreement.</p>
+    <p>Licensor grants to Licensee a non-exclusive, non-transferable, limited license to use the Migrator QBO-ODOO software application (the "Software") for the sole purpose of migrating data from Intuit QuickBooks to Odoo CRM. Licensee agrees to use the Software only in accordance with the terms of this Agreement.</p>
 
     <h2>2. Restrictions</h2>
 
     <p>Licensee shall not:</p>
-
-    <ul>
-        <li>Modify, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.</li>
-        <li>Distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.</li>
-        <li>Use the Software for any illegal or unauthorized purpose.</li>
-    </ul>
+    <div>
+        <ul>
+            <li>Modify, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.</li>
+            <li>Distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.</li>
+            <li>Use the Software for any illegal or unauthorized purpose.</li>
+        </ul>
+    </div>
 
     <h2>3. Ownership</h2>
 
@@ -86,7 +87,7 @@
 
     <h1>Privacy Policy</h1>
 
-    <p>[Your Company Name] ("we," "us," or "our") respects the privacy of our users ("you" or "your"). This Privacy Policy describes how we collect, use, and disclose your information in connection with your use of our [App Name] software application (the "Software").</p>
+    <p>Miami Scaffold Rental ("we," "us," or "our") respects the privacy of our users ("you" or "your"). This Privacy Policy describes how we collect, use, and disclose your information in connection with your use of our Migrator QBO-ODOO software application (the "Software").</p>
 
     <h2>2. Information We Collect</h2>
 
@@ -120,20 +121,6 @@
     </div>
   </section>
   <?php require 'common_footer.php' ?>
-  <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>
-  <script type='text/javascript' src='unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js'></script>
-  <script type="text/javascript">
-    jQuery(document).ready(function() {
-      jQuery("#gallery").unitegallery({
-        gallery_theme: "tilesgrid",
-				theme_panel_position: "right",
-        gallery_width:'100%',
-        slider_enable_text_panel: false,
-        theme_navigation_type:"arrows",
-        lightbox_type: "compact",		
-      });
-    });
-  </script>
 </body>
 
 </html>
