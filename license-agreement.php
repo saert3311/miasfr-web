@@ -35,44 +35,87 @@
     <div class="container">
       <h1 class="mb-4 service-title">License agreement, Privacy policy Migrator MIASFR</h1>
       <div class="row mb-3">
-        <p>
-        This License Agreement ("Agreement") is made and entered into as of May 09, 2024 by and between Miami Scaffold Rental, a United States corporation with its principal place of business a 9955 NW 116th Way, Ste. 8 Medley, FL 33178 ("Licensor"), and you, the end user ("Licensee").
-1. Grant of License
-Licensor grants to Licensee a non-exclusive, non-transferable, limited license to use the [App Name] software application (the "Software") for the sole purpose of migrating data from Intuit QuickBooks to Odoo CRM. Licensee agrees to use the Software only in accordance with the terms of this Agreement.
-2. Restrictions
-Licensee shall not:
-•	Modify, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.
-•	Distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.
-•	Use the Software for any illegal or unauthorized purpose.
-3. Ownership
-Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein.
-4. Disclaimer of Warranty
-THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL FUNCTION WITHOUT INTERRUPTION OR ERROR OR THAT IT WILL BE FREE FROM DEFECTS.
-5. Limitation of Liability
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-6. Term and Termination
-This Agreement shall commence on the Effective Date and shall continue until terminated by either party. This Agreement may be terminated by Licensor immediately upon written notice to Licensee for any material breach of this Agreement by Licensee.
-7. Entire Agreement
-This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
-8. Governing Law
-This Agreement shall be governed by and construed in accordance with the laws of [Your Country].
-Privacy Policy
-1. Introduction
-[Your Company Name] ("we," "us," or "our") respects the privacy of our users ("you" or "your"). This Privacy Policy describes how we collect, use, and disclose your information in connection with your use of our [App Name] software application (the "Software").
-2. Information We Collect
-We collect the following information from you:
-•	Data you migrate from Intuit QuickBooks to Odoo CRM using the Software. We do not store this data on our servers.
-3. Use of Information
-We do not use your data for any purpose other than facilitating the migration from Intuit QuickBooks to Odoo CRM.
-4. Disclosure of Information
-We will not disclose your data to any third party without your consent, except as required by law.
-5. Security
-We take reasonable steps to protect your data from unauthorized access, disclosure, alteration, or destruction. However, no internet transmission is completely secure, and we cannot guarantee the security of your data.
-6. Changes to this Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.
-7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at info@miamiscaffoldrental.com.
-        </p>
+      <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>License Agreement and Privacy Policy</title>
+</head>
+<body>
+    <h1>License Agreement</h1>
+
+    <p>This License Agreement ("Agreement") is made and entered into as of May 09, 2024 by and between Miami Scaffold Rental, a United States corporation with its principal place of business at 9955 NW 116th Way, Ste. 8 Medley, FL 33178 ("Licensor"), and you, the end user ("Licensee").</p>
+
+    <h2>1. Grant of License</h2>
+
+    <p>Licensor grants to Licensee a non-exclusive, non-transferable, limited license to use the [App Name] software application (the "Software") for the sole purpose of migrating data from Intuit QuickBooks to Odoo CRM. Licensee agrees to use the Software only in accordance with the terms of this Agreement.</p>
+
+    <h2>2. Restrictions</h2>
+
+    <p>Licensee shall not:</p>
+
+    <ul>
+        <li>Modify, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.</li>
+        <li>Distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party.</li>
+        <li>Use the Software for any illegal or unauthorized purpose.</li>
+    </ul>
+
+    <h2>3. Ownership</h2>
+
+    <p>Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein.</p>
+
+    <h2>4. Disclaimer of Warranty</h2>
+
+    <p>THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL FUNCTION WITHOUT INTERRUPTION OR ERROR OR THAT IT WILL BE FREE FROM DEFECTS.</p>
+
+    <h2>5. Limitation of Liability</h2>
+
+    <p>IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+
+    <h2>6. Term and Termination</h2>
+
+    <p>This Agreement shall commence on the Effective Date and shall continue until terminated by either party. This Agreement may be terminated by Licensor immediately upon written notice to Licensee for any material breach of this Agreement by Licensee.</p>
+
+    <h2>7. Entire Agreement</h2>
+
+    <p>This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.</p>
+
+    <h2>8. Governing Law</h2>
+
+    <p>This Agreement shall be governed by and construed in accordance with the laws of [Your Country].</p>
+
+    <h1>Privacy Policy</h1>
+
+    <p>[Your Company Name] ("we," "us," or "our") respects the privacy of our users ("you" or "your"). This Privacy Policy describes how we collect, use, and disclose your information in connection with your use of our [App Name] software application (the "Software").</p>
+
+    <h2>2. Information We Collect</h2>
+
+    <p>We collect the following information from you:</p>
+
+    <ul>
+        <li>Data you migrate from Intuit QuickBooks to Odoo CRM using the Software. We do not store this data on our servers.</li>
+    </ul>
+
+    <h2>3. Use of Information</h2>
+
+    <p>We do not use your data for any purpose other than facilitating the migration from Intuit QuickBooks to Odoo CRM.</p>
+
+    <h2>4. Disclosure of Information</h2>
+
+    <p>We will not disclose your data to any third party without your consent, except as required by law.</p>
+
+    <h2>5. Security</h2>
+
+    <p>We take reasonable steps to protect your data from unauthorized access, disclosure, alteration, or destruction. However, no internet transmission is completely secure, and we cannot guarantee the security of your data.</p>
+
+    <h2>6. Changes to this Privacy Policy</h2>
+
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.</p> 
+
+    <h2>7. Contact Us</h2>
+
+    <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:info@miamiscaffoldrental">info@miamiscaffoldrental</a>.</p>
+
       </div>
     </div>
   </section>
