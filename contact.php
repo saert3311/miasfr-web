@@ -130,7 +130,7 @@
 	          </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex">
-          	<div class="align-self-stretch box p-4 text-center">
+          	<div class="align-self-stretch box py-4 px-2 text-center">
           		<div class="icon d-flex align-items-center justify-content-center">
           			<img src="images/hours_icon.webp">
           		</div>
