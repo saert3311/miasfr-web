@@ -135,7 +135,7 @@
           			<img src="images/hours_icon.webp">
           		</div>
           		<h3 class="mb-4"><?php echo ___('Hours') ?></h3>
-	            <p><?php echo ___('MON-SAT: 7:00 am to 4:00 pm<br>SUN: Closed') ?></p>
+	            <p><?php echo ___('MON-FRI: 7:00 am to 4:00 pm<br>SAT-SUN: Closed') ?></p>
 	          </div>
           </div>
         </div>
